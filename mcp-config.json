@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "mining-news": {
+      "command": "C:\\Users\\ALIENWARE\\Desktop\\mianshi\\mining-briefing\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "servers.mining_news.server"
+      ],
+      "env": {
+        "PYTHONPATH": "C:\\Users\\ALIENWARE\\Desktop\\mianshi\\mining-briefing",
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONUTF8": "1"
+      }
+    },
+    "mineral-pdf": {
+      "command": "C:\\Users\\ALIENWARE\\Desktop\\mianshi\\mining-briefing\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "servers.mineral_pdf.server"
+      ],
+      "env": {
+        "PYTHONPATH": "C:\\Users\\ALIENWARE\\Desktop\\mianshi\\mining-briefing",
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONUTF8": "1"
+      }
+    },
+    "lme-price": {
+      "command": "C:\\Users\\ALIENWARE\\Desktop\\mianshi\\mining-briefing\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "servers.lme_price.server"
+      ],
+      "env": {
+        "PYTHONPATH": "C:\\Users\\ALIENWARE\\Desktop\\mianshi\\mining-briefing",
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONUTF8": "1"
+      }
+    }
+  }
+}

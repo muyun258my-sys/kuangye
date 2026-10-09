@@ -1,0 +1,72 @@
+services:
+  news:
+    build: .
+    command: ["python", "-m", "servers.mining_news.server"]
+    environment:
+      MCP_TRANSPORT: streamable-http
+      MCP_HOST: 0.0.0.0
+      LOG_LEVEL: INFO
+      MINING_OFFLINE: ${MINING_OFFLINE:-0}
+    ports:
+      - "8001:8001"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; socket.create_connection(('127.0.0.1', 8001), 2).close()"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+
+  pdf:
+    build: .
+    command: ["python", "-m", "servers.mineral_pdf.server"]
+    environment:
+      MCP_TRANSPORT: streamable-http
+      MCP_HOST: 0.0.0.0
+      LOG_LEVEL: INFO
+      MINING_OFFLINE: ${MINING_OFFLINE:-0}
+    ports:
+      - "8002:8002"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; socket.create_connection(('127.0.0.1', 8002), 2).close()"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+
+  price:
+    build: .
+    command: ["python", "-m", "servers.lme_price.server"]
+    environment:
+      MCP_TRANSPORT: streamable-http
+      MCP_HOST: 0.0.0.0
+      LOG_LEVEL: INFO
+      MINING_OFFLINE: ${MINING_OFFLINE:-0}
+      METALS_API_KEY: ${METALS_API_KEY:-}
+    ports:
+      - "8003:8003"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; socket.create_connection(('127.0.0.1', 8003), 2).close()"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+
+  agent:
+    build: .
+    entrypoint: ["uv", "run", "--no-dev", "--frozen", "python", "-m", "agent.cli"]
+    volumes:
+      - ./reports:/app/reports
+    environment:
+      MCP_TRANSPORT: http
+      NEWS_MCP_URL: http://news:8001/mcp
+      PDF_MCP_URL: http://pdf:8002/mcp
+      PRICE_MCP_URL: http://price:8003/mcp
+      LLM_BASE_URL: ${LLM_BASE_URL:-https://api.openai.com/v1}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_MODEL: ${LLM_MODEL:-gpt-4o-mini}
+      METALS_API_KEY: ${METALS_API_KEY:-}
+      MINING_OFFLINE: ${MINING_OFFLINE:-0}
+    depends_on:
+      news:
+        condition: service_healthy
+      pdf:
+        condition: service_healthy
+      price:
+        condition: service_healthy

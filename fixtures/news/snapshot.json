@@ -1,0 +1,1851 @@
+{
+ "snapshot_at": "2026-10-08T12:56:26Z",
+ "provider": "google-news-rss",
+ "queries": [
+  "Pilbara lithium",
+  "Pilgangoora",
+  "Wodgina",
+  "PLS Group lithium",
+  "Mineral Resources lithium",
+  "spodumene price"
+ ],
+ "note": "真实 Google News RSS 快照，仅含标题/来源/时间/链接；离线模式下作为兜底数据。",
+ "items": [
+  {
+   "title": "Elevra signs spodumene supply deal with LG Energy",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LTEkzdU1wLXlMLTFBM3ktakNsRTBnaTljdFkyMjJmMENIQXJTNy1LOV9GVU94MWZVb0x4dXJwRy1peExNVEVzYUtpVlBtc05Fcl91RGFPNUJBZEQ1dGtkX2J5MmRZLUc1T1RiZG95SHVsSE9Nclk3ZVpwMUw?oc=5",
+   "source": "Mining.com.au",
+   "source_domain": "mining.com.au",
+   "published_at": "2026-10-08T12:31:51+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Zimbabwe lithium sales surge as mineral exports double to US$4.7 billion",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVU9lQUdORUVQYTRTSEwzNWdLMFQybENZWTIxOHNRQzg3Z09abllxX1ZXVllmSFM3OURodlJ5bmFSSlBucXQydXVXQWJJRHhkQlFhbjJERWRybHRkQndvdGNwR3g4M1FQMVhzR3FDWWFmNC1INm5ZUktYdU02UUZlcmlqcmVBVkYwYXdNeXVWanZmY1JsYktEY3hwaHA?oc=5",
+   "source": "ZimLive.com",
+   "source_domain": "www.zimlive.com",
+   "published_at": "2026-10-08T10:46:34+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "LG Energy Solution Secures 240,000 MT Canadian Lithium Supply Deal",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakJNSWN1SHlyX3BIR2lpNGpzbHJaLUtOQXhEYVdxTEZZMFpVdEVxRUQ5QWJZTlZ4a0tMbGtoT3cyQXpDTS12T0NpdXN5ZXM0ZEJsSVZROGZsQVRYbTlJVEU0QUhxa3dBcnN4Y2tBZjdTQnBnSW1nYlN3WHhhSm56MHZ3UzQxMkpDUG5OOU9YSUdidGhVc001RlljeDVTb04zRGZxMmZaRlQyTUQ0SG5CUF9XUTJfRHBGUlRz?oc=5",
+   "source": "ChemAnalyst",
+   "source_domain": "www.chemanalyst.com",
+   "published_at": "2026-10-08T06:56:27+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group stock faces a 10% EPS estimate cut before results",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWtvajBIOUxSMUxRWXp5X3NxY2NKR0RqN0tvbmFJTVpQN2ZHTm1mMnUyZVRha2E2eEFzVm1mcUQwYV9DM2ViWmdEdmhYRmhPOGYyWU0yRi11cmJmbHMxX3QwTkFXSkx4U0xRZENULWUtYVdrNl8xY1AwcnNOa2VDXzFqTjBQdUhaa2VZVU9rS25aSWd3OVVNX0ZoVFZ3ZkVuTzVFNWE3ZHN4OXFubTBQN2xlQ0VtQ3hDQTRjMzVxWGFGUkk?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-08T05:57:49+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Linkforce: Pilbara mining company sues ex-employee over alleged secret breach",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbW45bGNySlhneWlnaWNXZEdGdmltbXBHSlp0LVhCTGxka1FpZjhPRjBGZ0J0cGt6UXRvbGc1YmNqUHFVOTdyaFNXeGhFVWExMEVPWXVKcktzY1FDZUNlbDc3MHVRR0ZablpkMlBGYXh1OEUtZVdXd3BxVXJRMDN1bm1nY29hZlVpQ3UwRzA5UVQ1VXJ4aGlveVFsY0NqajFRaFlrOWFSS2FFQ2lMUXNiTjVsTnN6WTkzRkJEb0czTE80LU8zU0MwSzlNX3hHN1YzdXp2MVpGZzU?oc=5",
+   "source": "WAtoday",
+   "source_domain": "www.watoday.com.au",
+   "published_at": "2026-10-08T05:36:46+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "IGO stock falls 4.59 percent in ASX trading",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFUxRFZlWXhENWpEMTRrTy1UUm9WaTlfSnNGdFBGay12Q0FCWG4xY2RfS1MtNzBxRmZlRlVnR0FpbXhtVUVTMFN1TkpIZkw0dUZ5Z3c2VXdjNlJUVnlnQ2Q2NlYxMzFOMWZ2SDFwSWN4ZTBYNmJIMHoxYVFCRUQxRjlORXVGSHlwemFXaFJrTk52cWE1aXloRG9uNWpIVGV4U1doNg?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-08T02:15:44+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Develop Global And 2 Other Australian Lithium Stocks To Watch",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1BvRlRNdHBJczczZVRybThpRmt0UUI1ZUJaY1UxcG1oTzRXVXllQnZ0dllJUWZCT3hYUGhXeFVnT1FwdUlfbjZyS3VyRXVLaW5WRFZUZmJ4ckVEdzlBYWg2aFRQRUc2WjNOcjd6eEVPSF9DTS1QaVFiUTczZ3VBeXo2Qlo5eFlpMnI1aU9nX0stcDZsUlM0UXNTbkVXcEpuS01fTU1QaEI0S011bzA0cXNTT3lWTmlWNzVlcGdLMzd3aXU0OFFwZ3ZBTHhhcmc0VzZoUGV3bFfSAdgBQVVfeXFMTW9Qb0ZUTXRwSXM3M2VUcm04aUZrdFFCNWVCWmNVMXBtaE80V1V5ZUJ2dHZZSVFmQk94WFBoV3hVZ09RcHVJX242ckt1ckV1S2luVkRWVGZieHJFRHc5QWFoNmhUUEVHNlozTnI3enhFT0hfQ00tUGlRYlE3M2d1QXl6NkJaOXhZaTJyNWlPZ19LLXA2bFJTNFFzU25FV3BKbktNX01NUGhCNEtNdW8wNHFzU095Vk5pVjc1ZXBnSzM3d2l1NDhRcGd2QUx4YXJnNFc2aFBld2xX?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-10-08T02:06:09+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "How Will the Kathleen Valley Expansion Decision Shape Liontown Limited (ASX:LTR)?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzV4cGYwOE5ndWVzZGpkX1JTeDFRMzF2dmtPTzd2d0Z2d2lvS3JQOXFqclkyQ0hUZ3FxVFlEd2pWTU8tbmtlR0IyWFdKNGJvaVNXV29majh2ZFhIaWVvaTN4YjVWR3FBSTJmSGd2QlNjWHkwbjJDQzVid3FVOW9xR1QweWJwU2Qxc25FUjhmendRaktrbWwzX1VLOUJtQ2xXdDQ0YWVBTVAtbDUxVkloNm9R?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-10-08T00:42:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "What Does Mineral Resources’ (ASX:MIN) Leadership Change Mean?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnAzSVgybEhiZW9uc3B0THBxRzJQLVRDTV9weDRIYkZzdVJ4dUZwNV9oblVpcGhxVzZ6X3B3Tm9HMTUwWGYycmlWSEZQTjJRZVI1eGYzYlBScDk2YUcyU0RqUENESkZzSnd3YjlqeE40clVLeFhFcFhIaU5IRk05VmNEcGJVZ2VWVWZXQXRqT0dnTjh4RjlaNWdEdy1JTzAyd0VFcFZoNDI0bEI3Vnc?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-10-07T23:55:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mineral Resources stock faces a lithium leadership change",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzdvMjRXWVF0S3VBbGZMTHVLZlVRdzNoZFNlNEdGZVg3T25zeHc1VnV0OVVrMFZuRTN3dUJOWGxpdWI3UHBRWWlBbG5namNXRmV3MERENzY3a3JmUWhmTDA0eXk3QlFBVE43eFpXd2YwVWRzdE5HY2hWRzhUbC1TcndCTnNZTmtMamZqV0x2SFlnbEstTVFzZ29xZWV2T3NHX2dxc3Jyek9LQkRFWHhCUVMxeTVkRTA?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-07T22:56:35+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Elevra Lithium Limited (ASX:ELV) Spodumene Supply Agreement signed with LG Energy Solution",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3RXR25paEktMjlOT25zZWx0b2RkVEo2M2FOd3oweGtlMW84WFVuMEhOX05hRlV3dGhMYk9uQ21VT3FDSm9ybWNBZjFoVlRNR2l2eDhPMzhDX0hqR005bXc4S1dDVS1qMVRyMEJpdzEzanZzaXNmN1pPTGYxRVJhbllxU0g4UzZNRzN6STJ4LXR2OHM1cThpR0dnNnphYy1XaWpsYXdmR2drb0FyN05TQU0xLTNISlBYN3pwcjF3U1FKelVmX1c4cW5nRjNaV0dzMjRKeXZR?oc=5",
+   "source": "ABN Newswire",
+   "source_domain": "www.abnnewswire.net",
+   "published_at": "2026-10-07T22:21:59+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Zimbabwe’s lithium export earnings surge on higher spodumene prices",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRDRXaU1QUUxSeDVxdXNma1BsWXNDMXFyaU1zTEF4dEZpaGczYmRrVnFiOW5OQlFNU1ZGcGFzNTlWZkltaWItODBmRUluVS1tR0ZDOVlqTUxBdWk5ekVydHBqencySFlxb01JTGJyQW8waEZ1blhYLWxJdkRpNF9MX3VvVHZpRS1XdTFic1pQcnpwcDQ?oc=5",
+   "source": "Mining.com.au",
+   "source_domain": "mining.com.au",
+   "published_at": "2026-10-07T22:08:12+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Americas Corp. (LAC) stock price, news, quote and history - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkX0c2dUNuU3BId2s1RkgxRDFnMFRhcmYzTE50aF8zaVBHNmV4ZkZWWUxNaXNaVUt6NFMwb0t2NmFJNWVud3B5UlZ1MG9JWEZfYnhUdnRBY2NWWmRROUx6cQ?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "source_domain": "sg.finance.yahoo.com",
+   "published_at": "2026-10-07T20:59:38+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Zimbabwe’s Lithium Exports Just Left PGMs Behind",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVB6Sm9oenBRcE92ZkVaOXZRZzVuZVZfX1c1Q3dRcG5SbzNJNGlFcEotcENORHY0SlZwMXE2R2poNE9kaWw5VEVSLWt1WFZtTnd4VnVHXzROTU5MUGVIejl6UHpPX3ZQZzlXeW9wRzBiaVZtbmZKa3VyQUlza2dDdDhR?oc=5",
+   "source": "Finimize",
+   "source_domain": "finimize.com",
+   "published_at": "2026-10-07T20:38:50+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Core Lithium Shares Down ~35% In Two Weeks: The Latest",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEk2YzJGZzM2NkJySEdWeEhjb1BlUXdOWEg0TjFlamEyb3JJbGI1UU1xOEVOQ0xjbjVKTXY1OFBWR29wOFBiZXVvTEZ4UTNpa3gwUUY0TThWU2RZenVBTjZzdkw2elhrdGlneEtoQXUwS1ZnaEs5S09ZX3hsdWhvaXBLYVp1OUU?oc=5",
+   "source": "TheBull.com.au",
+   "source_domain": "thebull.com.au",
+   "published_at": "2026-10-07T20:04:47+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Zimbabwe’s lithium export sales surge nearly fourfold",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFZ3MU1KeGJIUnBGRXVlVzBvUnAxVnJJQk5ORUZSWjBYV0E0OC1wMF9qaXUtMnZfenZxVk5HSDZYSHR6U2NPdEc1YjVxM0hLMHZaYkRwQUVGa0dWUEU3UkZ5Yy1qRWZ5bkplUUJvUGVFUHdZVDNKSWlKbjNMTTRlMnRFVVZVbC1ndVFtU01UbUVGQnJoRFJ2M3NmMGpwYjB5dnl2eDBqV2FNMG8?oc=5",
+   "source": "Business Day",
+   "source_domain": "www.businessday.co.za",
+   "published_at": "2026-10-07T19:57:03+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Zimbabwes lithium export earnings surge on higher spodumene prices",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0Fxd1VvS0g1cC1DVnRPY2daZnEzZ2ZtaFNleEVETEQ5QXpCWnNTenRlUDdJb2x2MnVmVFljTFp5ck04R0E3YkRYVkdjY2JPWnV5ZU9GZjg3ODlTdlhCR2FvanFmV2ltbXVTd3dzU0dmQURWdlBoQ3c4THZIVmQzM0xLS01WVEpkcnI2UEdlRlhIaVRZZHJjUnFWdHJlUEJXTEpsSW9RUy02YjVNeWNNRWJpYW5aeTR0LWfSAb8BQVVfeXFMTldmOXpXZTZmZjdqSzhrT2FkaVQzWkVzbmJoWG9lRVE0N2NJWkUtMmRQY2FVeFd1TWpZTVZ6YWxsOTQ5Q0hRNVBJVC1UX24zcG55N0RlanViNEpoV1dKaGg0T0gwS3FzVmU1SGtfUzNTTjIwNzdIdjk2cFNpVnBjTVhDaDRfR3ZLM0RFUW1CMGZtMU5QT2RrWEpYTWdhLWs3aXpQVkFreVluVzltQVp3Z1lReThIeXUtZFFWellNZlk?oc=5",
+   "source": "Livemint",
+   "source_domain": "www.livemint.com",
+   "published_at": "2026-10-07T19:31:19+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Exploring Earth’s Resources for a Clean Energy Future",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3hTc1BTR1EtZ2JPS1B1VmRwbWdXNXRnYU5SbGVIR21Ed1VmTDRwZDdjd2JMX1lxWTZEY0ZnUWttQjZ0Y1V0N2tIY0lieVdtbUpXdFFFUzR0MUVRVWlmZVZaWk16ODZrZTBKdDJtTXUwLWpXNTlmbzdjcDBJdUZjU1d5Q1doaThkRGJsQi1R?oc=5",
+   "source": "Syracuse University Today",
+   "source_domain": "news.syr.edu",
+   "published_at": "2026-10-07T17:42:12+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group Limited (ASX:PLS): FY26 Record Production and Pilgangoora Growth Plans",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFZqdDEtQlUzRGdIenM4TXdlUmhRNVRHVEJ1aGdVb01OM2htS2o0VHF1R0dQNXppSVJxYm4zNlpybk5jVVpyaUdWTWRVcDhaWXBMVG51VG5mLW54elFydnBTYmZvZW9sZERkX2xraDkwdE9SOUw0Vko2MnFkNnEteWlVVjk2YmZmRGFIOGpJYkdLbERDeEljMEJsUmxNUFI5WmVhMnpvUnA2bmJFLVE5blZWa1V4b3lnSkE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-10-07T12:57:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Sigma Lithium Restarts Brazil Operations After Court Ruling",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0Utc0RxYTU1TVhPNjdLVktNU1JnYnBVNUlXbEp6YTIzejBKaV9UdktQV2FNdlo5dHJ6OUc3ZHA3QlJEU2N3REJZV1lvaG13bkNmT29uSFFGM21aRHZmV1BWQWVEdmUxdmhNXzBOczV5ZDhuOTFrRHljTnI5UUpSLTlReWlpNHBVUXlqNzdfVTJ4RV91N25tTEktV1J2bTczeUxSdUtpVnFxSzNiTEVIYl9DNmY5ejVMNWc?oc=5",
+   "source": "ChemAnalyst",
+   "source_domain": "www.chemanalyst.com",
+   "published_at": "2026-10-07T12:46:27+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Nigeria's Mining Investment Promises Ring Hollow as Jupiter Lithium Dispute Exposes a Troubling Contradiction",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVXp2NFFNZUV5UEE2T3VidXl6a1FmSEMxLXlZTmF4enpyTlRfQWVmdjRBTHBCVlFkUzIzVHVocjAtNkZHTkFGN3F0SWRmM3VfamVRNEtudzM5VlRYNXYxcTRWZXliVGs3RzRoR1dPbWhMTjFXTkRkblU5TUx3cm5kT1d2ZlFXMGFiLU56eXN4M2VtYlI5ZkJ6Q1hWelRZNlg5M2VVWG55V1N4bUZ5MlRnbUdGd2FQMm5vZTMxcE1QMmNLOHktVExsaWVwUQ?oc=5",
+   "source": "TG NEWS",
+   "source_domain": "tgnews.com.ng",
+   "published_at": "2026-10-07T11:28:06+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "[SMM Analysis] Lithium Carbonate Market Review During the National Day Holiday and Market Outlook",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0hwTFpDSkNpU0o1T1h3TU0wTmdrYU9aRjRkZDVPVERUcTJTWmFJN0FIcWZFc0hNUEVqUlpJcFFoRUdNUy15czc0YWFiTC1rdVRac0xLWlp0U1FyNGFIV00yXzZHcENjNVNMbVVTWHZWeEloTmphcnhlVWNLQTc3MzBjenFVVl9WYkZDT0UxWllKSUUtb3BibXZRMUFjcWxGclI5dVRoZHpSanBfbzhFSHQyeWp6dUhIYmplNW53cnZUYUI0bXNaMHJIeWxHcElRXzFPbTY2bw?oc=5",
+   "source": "Shanghai Metals Market",
+   "source_domain": "news.metal.com",
+   "published_at": "2026-10-07T09:12:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Venari's Red Mountain emerges as unique US strategic minerals play",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUlqSDNmMXhCLVo1OVNqZi05M0VqNEpjVzI1b0VDWGZkMkRQNlRpbTV3c1o0TVFpY2hfNHY4Nm5wTWR3cVFabXhNQ0FBR0w5V1hFQ2lYNkhIenluN0NVdm02Wi1TaU1zVVd6OU9KNnEtNk4wdkZqZ2h3QzNUVzNwV003UmtmRVF2MmtFWmhjYzlqSzY1R3hwRGpEeGxNd2tfdTVXZFhIdmNzMnpCM3RadWpuX25CNnpvOEhYX19EOA?oc=5",
+   "source": "Mining News Net",
+   "source_domain": "www.miningnews.net",
+   "published_at": "2026-10-07T07:59:53+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Fortescue vs PLS Group: Which ASX mining share is the better buy?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlhlZTBDeG13a0RhR29sZ3RYdU5UZGt1alppNmhrQnI0NUFaVjlZYXdqZXJ2Z1EwV3p5MUNPcVN1QmVFelpkQUEtRmxiRDJOUGJqVGNXSUtsNU1VZ2pfTkZGaTRZOXY0MU9la1pDdHRHRXd0SUNXMkg5bDZlMy00OEdkOWI0UVRnUGRTQXF0RG5EM2QyX1puS20ta1lzZ2d3?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-10-07T06:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PMET Resources stock gets a Matagami rail link update",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUlqMWFxakprcllELWMtV3BpWkRoSmxFWEduZWV1VVhoTUpsd1lMUExGeTdWTlNxUHprUVpRR2hrTXFoa2hKSmtGLUJKZ2pqcmg2UmYxaFIxWFdxSzUxMVctbVoySGdIekhCNlFqVkV6UkdaSHVrZkhqTksxbGtyaU5rYWwxT1hfVTZKSXZSNVZTZzFFZ0ZKZEhhekcyYi13QXo0cldLb01rZWpXeks4aEFR?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-07T05:10:48+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Simply Wall St flags capex risk for PLS Group stock",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ18zVDRFUGEwVlZNdFczSnpnYXlPazVacVl5V1Z6OHRQbUJxVWlnQUFmV01xWVl6bHBnTGJDazg4dFRWSVQ5UE52Y09wNzRQbXFJZnlCMHJLSEFQR1hwOE9ZNmJZNjlrOHNvWG91RXpPTVZYYVFrRkxKVkJGUXI1MmpldGJfdTRscWhoTlJjeWJuN0p5RXRmUnA2ZW1ibmN6STJ1dXJoYU9lVlctd0lF?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-07T03:41:40+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group stock reports 152 percent revenue growth after FY26 rebound",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXp3WTdKQXNaMGZHakdpTHYtdDdpTXA3YnBKYTZkYUh2akxCNzM5ODBFMTlmVHNpQjdobzBGeHVTSFpnaVd1UEVya0o3N0xDQjNoZ3V3Ukx3YVhFbzdqaHU2VlE0TkxiZzZEQWU4c0s1QU95bFE3cjdiNmxudGk4anV2cFRFSjZSazc1LVJmYzQtWk9HbHVLVENqTVQwVmtfRTFGLWRxM0R0aG5rRExjU2dlRnlSUGM5X29SUWhVU2xrRnpuUkFr?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-07T01:33:52+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Liontown stock gained 3.11 percent as expansion plans advanced",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalJqMHNnNEU3eFY5b0QxRXlSSC1JdlpHQ1pGZnktLWw4NWRGT1hqLXd5dTlfa053ekUyXzJ6aHQtekpyRElWLXhIdGQ4anJqNUI3Z2Y4dk9Jei1aOFhpT09UbVBpV1NrdXJCV2czalV5YVhyWUhlWnFyUnI0dE02NjZEUW1TejVpTDBoTXZILTBCbkVhd0tHOU5YN1R4Q1dzYko1dmJTUGlENFFMRmZPZUQ5LUhDOFI0V2ZjeWp3?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-06T23:14:20+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium slide weighs on Tim Goyder’s Liontown bet",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53a00xbUZ0Z3NVdVlBUXcyRUpqZU1WQmNGZDJzUDRNX3U3T3h1RVdzeVNGYm5jamtYNVBROGpmSHY5eEExTGRXbjJkd1hpb1lmRENqQlVLQlhOWHZCcVRlcy1VUUo0blJnWWdsR3JEbXhuVjNuVU5ieE5Vaw?oc=5",
+   "source": "Mining.com.au",
+   "source_domain": "mining.com.au",
+   "published_at": "2026-10-06T22:31:11+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Minister silent as iron ore miners miss royalty payments",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYU5DQmw5Z1JKOF85Z3RQMlVmMWNpYW9oZHNtU3VvdTZSVjdES05wd1otOHJZMXpRdHFrSFdRRlFMaHppam5VZFBJOW5kVEVORno5ZGJnWG9seFhmNzJYblQ2aU9LUXcwQkJ6R3Z1T2U1dHBpYnJfaVpyMDJqOVdqb3JOSGVIVHAzTktPLXJUU1NLTktJVWRpM1hkc3g3MDFhS183Q2Z2NEFkVEhsVnYxamJ4aVYtRzZENGRhMjVRTnFqQVFUQ0pPanA3TlRiai1waFdRb2RaOGlxdWV4SmdaWWd4ejY?oc=5",
+   "source": "The West Australian",
+   "source_domain": "thewest.com.au",
+   "published_at": "2026-10-06T18:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group (ASX:PLS) Shares Surge Over the Year, FY26 Lithium Revenue Climbs and the Group Returns to Growth",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORlN5U1Q2Rk0wbHZTSXBlVTBPT0lRU19NWnBPcThkWlpXbjYzZEhQRU5Wc1ctbDBkLWJFcFZKYTdZRk5TTTVWV3g4MWVxQ3M0RWFLaC1tUm0yMzJNdTdsTV9kWkF4VEhJWDAxdFhpRThfR3RodDdYYTNBSmVhYzJLeWEzeVpxNm81bnZHYlhMclZqTzRTdUJidUI4WWVzOVJkQlBEWDV2RXRuZGxqNFVZVmN1bVZlTEZ0R09XUGM5QWhVNDhZLXZyYW1fcTMyY1BhMHRydG9pb1F3ZUVrNzVNZTVB?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-10-06T14:08:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Jefferies sees strong Wodgina output, mixed iron ore results",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWhYZ054MWJhTWFxNzZsVFlaNnFKckpjdzkzUjFaV09ra2lCTTJNQlhESnJQUVVLbTVBR1ZmTl9kNkI3TjdUZFZjY3ROa29ZSmdUcEFicmREbmFkXzctYlZQLVNHSVJ3STh5U0ljRXdrMWp2OENkRWRmUzVWWHJVWGNMcUstV2ZxdlVlNEkwa2I0OUVoVmNvcWV0WG5yXzlWck9rSWpZdVY3SUhmeGZGRU1IVnhfMS1fSk5n?oc=5",
+   "source": "StreetInsider",
+   "source_domain": "www.streetinsider.com",
+   "published_at": "2026-10-06T13:57:31+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Aussie Shorts [28 Sep 2026]: BHP Group, Steadfast, Artrya, ECHOiQ, Catalyst Metals, Core Lithium",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeExCckU5Q2N2bnR2ZXZzaW1rT05xUUJLbXVmRkQ0blBhR0xoYVlvNVBUTW0xM2Z0ekZ0NmoyQjBpWTJFVS1uN0NtR1ZBenRYTFUwTFM3SXdvRFEtdWRTT1U1czk3bjZEaUV2a3o5aUNoZHljaUlfQ0ktWjFVRVBfQm55Z1hLUVJnUTZObWVOLXNKeHVTdFR4OFRkZk0zQXVPTEI1SEZBVjlSZGU1OWx1T1YwNFItOEZSN1duMXg3WEZ2dw?oc=5",
+   "source": "Smartkarma",
+   "source_domain": "www.smartkarma.com",
+   "published_at": "2026-10-06T06:01:15+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Antimony Resources Ltd. Company & People | R1E",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnJDREdJOGFhMXVUdFM4T2c0WWxrUjRreU5fRjEyNDhjMnl6dFQ5NlFWa2RGTDU3S1FxR0ZWU0RCN0pjMmtZOG1Rdmc2VTA0S0w4VlZ2YXlHYndQNUppdF96c01sU3Zfdl9rVEhTN3Z0THk5UFlXc3c0S216RmNUdFdtUEN0RDVrMl8wSGhB?oc=5",
+   "source": "Barron's",
+   "source_domain": "www.barrons.com",
+   "published_at": "2026-10-06T04:56:16+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Venari Minerals Confirms Strontium and Magnesium By-Products in Red Mountain Lithium MRE",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEVXbEl5Nk9xTGY4QTh0c1p5TGhUQ3RaRXZqN1VNVDZwQ1hya0RRRjVEbTNxbXVxTUtycUlOUWJEUGhrLVlham1OSWFwYXRvUUNZQ3RxWTh3Qi1JUGFGdWpDVFRxWXBna3h3dGduRk9ET2R0Y24yeFIxcGR2bjVmUWdvX2VYY2hzNmhJV2VKalljTHhDNUpQZ20zb2RRZU52WU9tUUJFNld5aGw5ZEhtNEp6aXowMVJ4c1pscjBB?oc=5",
+   "source": "Small Caps",
+   "source_domain": "smallcaps.com.au",
+   "published_at": "2026-10-06T03:50:18+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Shortages Hit Battery Giants Hardest, Global Supply Network Study Finds",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFpXdUNhNjRIZ0RPalVmZmRlQ283TldPdHZ3b0ZvU1ZEeVl5MXlyNHRLdGhZRjVTdkJ2LVE4LVkwWUxwbXBkLU9ScENGS043YUZSY1RiSTdtdWotZGcwaDh3Q19mWk5WLS1ENHk3eklKNGEzcVltcmdMUVRVVFdOR1IzT1BqVk5kNGRzVGc0dFhUWFZYLTdWT21nS1FQd1Q0blBJTVhB?oc=5",
+   "source": "Bioengineer.org",
+   "source_domain": "bioengineer.org",
+   "published_at": "2026-10-06T03:45:25+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdkd6Rks5XzZXd19UbU03bEY1VGtTWFptWjB1MF85dm1wT3ZrNkFCa09fWUE5czlLUmc1TWxXbGVBT2dZSG9wbVBxOE4wczFMRWlpTFlySTlMNmN2U25PYmFlcGR5dkpmekhuR0VpZnFpTVdxV2FrOVJGZjAxaFB0SC1RYWl6ZU9YSWQyZElvRnJvaG9PQ1JpZnJQbFp3TERSVWk5bW03dmZsRDd6anNoOWUwRGxXN3pKc01MM1pxcF9YblI2cDF4bUFwQzl6R1l4?oc=5",
+   "source": "TradingView",
+   "source_domain": "es.tradingview.com",
+   "published_at": "2026-10-06T03:45:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "2026-27 commodities outlook: Iron Ore, Copper, Uranium, Lithium and more",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2c5UGRoMWV1RGcxeVYzMHh5ZFlZc0ZCWlpvano4UkhNYVNYU0tlMVdOY1UzZmRPdmFIVzBFYXBvUm5Gb3BkREh3TlRZdS1iTHBRTGk4ZmZNYnpPVWtoRzVVbzFnbDAwcy1zYWV0SDhUampyX1RwV0pHYVhweXg5RlkyMEZPaGIwbHBCWTNIR29XU1NSV05pTE5WY0hma3RpVjRlUi1sTQ?oc=5",
+   "source": "Market Index",
+   "source_domain": "www.marketindex.com.au",
+   "published_at": "2026-10-06T03:13:47+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Liontown falls 20% in ongoing lithium retreat. Is the sell-off now overdone?",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEtnQUdlTTF4Z19HVlc1dmNrR1pTbWUzcFpNTzlhOGV0VGRVR2VUcHVWMjNqcW1MYzUxcC1tUkdrOWdxTE9VUVJWNUVCc3I0LTdwdFVRV1lFclRUSE5peG5ENE9RMWVDQzhvZnF0b19CMkRCQWIyYmxVTjJBSFJkV1lPQTB4WncwYzBoalBoT3VMM2tiWXFCTUp6R2VZVnV0ZzlKbmgtOG1oaW01RDRJbA?oc=5",
+   "source": "Livewire Markets",
+   "source_domain": "www.livewiremarkets.com",
+   "published_at": "2026-10-06T01:06:08+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "POSCO Holdings stock gained 1.11 percent as Q2 profit rose on October 5, 2026",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2luR0pZZDV4ekY4U2pWeVJlR3dpdVQ3VXU5OGpSMmZEN1llRXVfX0ZZWUk2ZUZRSlAzdDN5bi1YTU1wZmFSMUQtVzZ6SHFfajZSdGlESUJqNVhmRnExSHpDX2QzMnRmY3NCbXFSTk10Q25kQmhuRVg3bkFqbzVNZ3BrZ25GWS00a052bUdaclI4ZzZZRkJTbWg1cnZfQ05qdFlQUExxZXM0b3kxNFJ0dGMwNS05X2VqWFlqNUxYWDdaOExERHZqME1HN05xcmdOdVhZRXZR?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-05T20:17:50+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Shinhan keeps target for POSCO Holdings stock at KRW 490,000.00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZkNab19lQzlUUkN3eWx0RUozeWFyRllIWW1GMGRsUWdvTlJBX1Z5aUZ6elNVVjdZeGRIclNHZVppdGNNUG5uU2ZIeTBweXFneFFBZlFPcl9CM0g5VnlvbVM0cW8tcU5ZMEtQSmpYUkNvV085OW9VNTBBZGhUS1EtRlpUX3JuN0FJM0tlblhKZjBHOFMyNHViQnQxaEIxdlJCTjdWZ18wN2lfRWRwblFJTW41bUllTzF3X3lITXZ2Yw?oc=5",
+   "source": "AD HOC NEWS",
+   "source_domain": "www.ad-hoc-news.de",
+   "published_at": "2026-10-05T19:41:07+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fRWVKcDNUeGdSeE82cU1fUFVjLUZtSUdSYVRLT3hQa054Z3BqZ3NNRFNCcW9XcnloUlZMTEd2UDhZY21hX3M5cFFEOGkwMXFZT1FpNWlXeGgyZw?oc=5",
+   "source": "Department of Energy (.gov)",
+   "source_domain": "www.energy.gov",
+   "published_at": "2026-10-05T15:48:55+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Global Lithium Compound Market Set to Reach USD 39.74 Billion by 2034 as EV Battery Demand, Energy Storage Expansion and Specialty Chemical Applications Strengthen, reports Maximize Market Research",
+   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNVFh5UnhTTHgxeEM5WkI5UHN3S3BlTDRiT2QtTGY5ZlhWRXQxWmRwXzlMSGJJdXdKTzRnX3dwS1Q3azJVV1lpS0thd1EtMElRRWJObExYdy1fOVRraEdMUFpCbGx2QUp6eTF2SmNyM3JoY0Nfak9jRDZuV3FkLVNiYU9jX3gzYldnMkVIRlN2aFlTeHRNSS0zeG5GVWFCdktlUW5JVjhhcWFEcWtzS2hmdnlERG5lZUZWT3UxM1BaZWlsekl2TXFEemZwRGhPX2ZzbU9xT3o1WUtOTlRqNmpzRy1MMkJ0ZkZOVDJSMGh5dG55X1dlaHl6ZDIteFcxYjVKSkVPZXh3Y3NGQWNNbXdiejFpZ19oLS1jMWxWZXVkSC1iVW1GVXc1MTBYU0E4NG1JSUJucmt4R0pZUFFmUm5ES3NZNVVXSk5lQmVIM2I3VnYta21KUzJkZzZmeXhQSHNkRU1QMWhicXVhR28?oc=5",
+   "source": "PR Newswire",
+   "source_domain": "www.prnewswire.com",
+   "published_at": "2026-10-05T14:01:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "What You Can Take From PLS Group's 47% Gain",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnp2VFBOUm5ZQk9SMlQteXBrNnFSSTJhc1AyaExyY21QWjUteTVybXFEX1ctaXdZSHc0Zlpab3d4X0tRM0VmMXlxd3ZLUDNCLTlhLWxBY1FjMFhnOWxWeG0yUkhjWW96QjFpTTg1clA3VS1nNmROU18tTUJUZy1qaGVhV2d2UmFGQWxNQk9LQXZfV0ZadHNiNjUtMmMtUmFJQmtpRnJGUFo1WmJRdTdtUVFKSQ?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-10-05T06:21:38+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Could PLS or BHP Stand Out Among ASX Miners?",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnhrWm43R3k1TkxXQi15dDNuRmUzRVp6MHAyT3RNX3ZWN3ZneU5CcllZWEFPM0pZdHlwbmNJUklqM1VObmdyWndpNG1VV1V1OExfSndrTnhpUVg3SUlpNU5RcURCc1lPd0Ftbm9VejNzTGZ3N01udFNFdWZZTER0SjE1am5PWDNxa2tvbzdVaHlHbUVnREhuQ2xWQQ?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-10-05T00:11:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "A planned Quebec route could move lithium concentrate from trucks to trains.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTZmRzdySnhSZllJQm9QSkdQY2d1QzlaRS1fVEo5aFFjQXFWRHV0S0tKZ2pUMXk0bXFlZW51ek9PeEpNcjVDVlcyZTUwRU1YMjdfSWZDenhleFRwNWs5SzlQUWZSUXA3Y3YxVXZCWmxORzZ2OW1TT2w2cWVkVzhLVkdTcl9TS2tLVnRTR3hqa1puUDNzQjJDengwZFFyWFlLR1hxbFpWenlRb2F1N0tPZVBTRENaZjZiU09xMFlpUEo?oc=5",
+   "source": "Stock Titan",
+   "source_domain": "www.stocktitan.net",
+   "published_at": "2026-10-04T21:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mineral Resources Limited (MIN.AX) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Zk5MeG5BNk9teHJZRnpFbk5ralJpTEgwOXF5TWJUalQ2Mnk5LXRkcnVUc25RVHAtMzRrbHUtcDk4UlRWaXpPZkwtbjJLRjBJaWQwNg?oc=5",
+   "source": "Yahoo Finance Australia",
+   "source_domain": "au.finance.yahoo.com",
+   "published_at": "2026-10-04T19:03:38+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lindian Resources Down 26% on Week, as Lithium & Critical Minerals Shares Cut",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW4yQndOS0Z5Wk1NWGFhWFpHZlNRQV9laXhiR3dlRnl6eWh6OW5aT1dBVks5STRGb21YYl9uVW42YXJhNm91NHZoekNDX1pCb3E4UTFmSk5YSWUzbTRRWGlDc0Ffd0Z4Tm5pa25DcGY2ZjVnR0FJandJcDRyclYxWm1VZURrOWNlUkU1SG1GazY5Z2hHVFVKamFYYkZpVnFKcmRWMg?oc=5",
+   "source": "TheBull.com.au",
+   "source_domain": "thebull.com.au",
+   "published_at": "2026-10-04T18:49:13+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS vs BHP: Which ASX 200 mining stock looks better today?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1BFUV9RaVJ4cUFRbGFxaTdXUkZ5cG1PNDFTNkRCYXRvNzdUY2I3WEhfdGNtQzItaWUzZlhJazJaS3NGTjZDZ0Qzclp6RG52aC0wRmwwSldyNkFaWlYxblVTS1lBUmd1SDRZbExTc2NGYjFyU1FGM1FqQ1VLVXdCbGhJWXY5b29uUkVTQnpxck9tQUIwODMw?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-10-04T18:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "5 Best Mining Stocks for 2026 and How to Invest",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeG10amNLd2k3X3ZMa19vUjVaT19venRMZWZGeUtDcmlMU2RmendaV18xQWg4Q0kxWU0wMkZISXB2R2Y2ZmhxZ0YtWFJWY3NXdUtTR3ZQZHl1WExoTWRlU3UtaDhhY1dMWWVfd1BoNHBuWnR6TjB1ZWlxc2t6WWlra2w4aEY5UklCMm9V?oc=5",
+   "source": "The Motley Fool",
+   "source_domain": "www.fool.com",
+   "published_at": "2026-10-04T13:44:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Elevra Lithium (ASX:ELV) Stock Forecast & Analyst Predictions",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEJFTlFtcV9XbWk5WkVOSzhjblNpVTVjamVWMjBkNDlBcEFrREhta3VUSkphS0NsbWRYZmpyQ3JmV0ZGSEE5U0EzUU8wS0Q4eXduRmp2SmUwTTkwWkN0YUpLMWJPUVJxY2xNMllaX0Rrblg1aFdZc3BmN1BpbmhNT0I2ckQ?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-10-04T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Can Mineral Resources (ASX:MIN) Stay Below Fair Value Following Its Lithium Leadership Shake Up?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUdvWlRMaWVlQWtjRXNDNWpFLXhjX2FhQnRLU2V2NHpFZWZaV2VIbXJsUDFpN2dTQ0hGMkpnRVZodm9HaFpIVllJSzRUc2szXy1YZlRRUmhBOWFmQTNobUExU2h6YzZreDFpLUZhZUdyYnItUG1LNERkN2syYzk4cWkzQzN6N3dOaGd5ZU9Uckg5N1VFeXRSdUhtd2NteUp6WmdmXzJBVTNETGVmWXpXQlppVnRtNWVrZHVqQWtFTHFnbmxyaEVncjl6U1ZVV1pwZEdxTVdpVdIB3AFBVV95cUxOREp4cGxoY2dvTFhfWm1XdzVDNEotOXZBMXl1Yms0NGg3OTQyM2h1MUgtaWc3a0RrNnFmQzd2SEppUUljeE9Zay1ORkE5NjlNSGtJeTdFSzl6VlNTT0J1QzdSWnN3YkV0UlJ1SEU1OTNJQnBZTDM5RWxIWEpMeEFBcXJTRnBvaXhlcG5sQUlWSTF6SnRtYzJnc0JGYUpDYjdORWJ2RVloSkhoQ1RrOFdXWkx2aFFoam80aGFLZzZIWU11TklaNjEwRmE3WWhpU0FSeTREMGNGTm5EVklR?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-10-03T22:02:27+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "What Sets PLS Group and Mineral Resources Apart?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZU0xYTB0QUhIWU5aaFR6NU9DVmxUV2xBV0ROT2lrZEJodDN3dWFUa3Fuc2dyY3duRk04R0MwQzdxOG9SbktDcnJncnpWM3M4Tm96b1JoeHVySHJtXzJlTzQ4QjUwR05KUjA2aldES1RPaU9uRGVqUERVVnpsSnpIbXhyaGFHMmx6V0pOTjU5d1Z6WGtrd21TVkRTSFd3Z29L?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-10-03T19:34:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkVZbWpBU0k5b3BrSGplN3pQZEo5S21scFdKT1hqMC1rUkxQaVZ6Qlp2bDA1ODdIeWNtV3ZuYWFSYmJ1eDl2N04xS3I4cW5NNnpaa1JCMUMzWlpaODk1SUpMaUlaQzY2MVRtM183WEpwWkZNYnlaeHNqeWsxOTVuMUtMZXN4R2pvLW9yTnIxRDNmREJUTjVXMnVrUUdTOTd4MnE5WjJMTDdOYW1XRnpKeFhGclM1SldYV0dVVlVPZDBZaUZ5eWRDZXBRek44U2NL0gHQAUFVX3lxTFB5RkcyTHRBZnFpMnBEOU1HRGVxZG1GakRTa2pnTE42RU1XMG9ka3V1cDBDVko1bVgwb05fY2N0OW4wUW82RWVmYlo2emFiWlRadFp5amxvSk85Mng5eFE5NHF0Z2ZnX3NOYkpZQ1MxSjktdGhwTWNHTkx3RkFjRE9BZW5JY3BmaVRURTl2c25fMmczRlVObGt6djhIbjN5aEo2M014MmNWZW94azRSNF82U00wcUVRb0VCeE9HY3Fxd1BqdzFrcERaWUltQUpfMEk?oc=5",
+   "source": "South China Morning Post",
+   "source_domain": "www.scmp.com",
+   "published_at": "2026-10-03T07:00:11+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "How Investors Are Reacting To Mineral Resources (ASX:MIN) Lithium Chief’s Resignation And Leadership Transition",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0ZQaHpWenozQ3pRSG9SQzFONmg5b1VzalJmbUsxUWo2YjdKWXlpRGNqcV9hMS1sRGJMVG9abnVVNUdoaTViNFRQS2lYMmZ6dzVRRmx0Ny1SazBNaXlKb3JlRWxxUS1ySzYtUldobXlJZGFtc3Q0cHpILUFEMzJtVlhxVkczVDFIMUpHZGtrSnhUNDhXa0tjeG16MG1tQ0FhUkVkdnNGLVM?oc=5",
+   "source": "Yahoo Finance",
+   "source_domain": "finance.yahoo.com",
+   "published_at": "2026-10-03T01:11:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PMET Resources Files Amended Version of its NI 43-101 Technical Report on the CV5 Lithium-Only Feasibility Study Previously Published in 2025 on its Shaakichiuwaanaan Project – Company Announcement - FT.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORG5ReEVPb0p6TGNFY1J5SWJEVXVpTGx4ZDhvLVB3ZUE3Y3R6R3lENXFGOGJwNkpHeUxVaXhlejJVaGNJdmZhZWg4NmtRNFNZYllwWFktUHVadnA1Y0lBRTBZQldDSXZvaU9XdmpuVDM1ZWJjdFFkTncwWmdPWXNiN0EwQWItZXdqWmhYZXRuMTV6cTA?oc=5",
+   "source": "Financial Times",
+   "source_domain": "markets.ft.com",
+   "published_at": "2026-10-02T21:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PMET Resources Files Amended Version of its NI 43-101 Technical Report on the CV5 Lithium-Only Feasibility Study Previously Published in 2025 on its Shaakichiuwaanaan Project",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPalBHNjRLTjNmVGpCakNabnFldE5Kd08tM05QbU1LQkZTUkU4WmliYnNnMkVfMVVwN2g5cDJtXzB4Vm5zTHVKdXZQWGczc2FkOVlNZjNnMF83ZFJyWF9PanFOeE5sOUlnc2kzLUNyX3g1dFhWT3lYeXFrbHYzTmlqd29SdXRXYmo5LUR1YXQ4MHFJcmtUSVREQjR3OW5pN3FsaERrSDRSZm5tWXlaRTFBMkU4c1MyOXFYSS01cS0yRDFyTEo1NXJyUkVQSkgwdjVET2gyOXNjWUVyb21KMFFZYXdBeWhWdXNpX2lpQlRadFNNMHBzZkFoLWpKYkVmUS1tMXdPX29mT3hmb1MzSno4SUh0NG5jM3hXR1N0bTkzRVFLQ2JFQ0o3aTFGTVY1cHdWd08wUHA2d29zVTJ3WUlndjRQR2hONFdpd0xnaUZFQQ?oc=5",
+   "source": "PR Newswire",
+   "source_domain": "www.prnewswire.com",
+   "published_at": "2026-10-02T21:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "A Quebec review prompted PMET to correct its lithium report, with study conclusions unchanged.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODlOaVpXakdoajJmMTJZbkM5a0JvT09oUkdKM1FSNVlCbmlBS1JiZE1JaFNvWVQwRkZVTmR4akJZSFlfSjdtQWo4a3phOGFTbGtPUklTV0Nra1NFS0FuX1JYak1DLWFMYUozR2RLeGdOOWlZWjlEQVJMUm5WRzVjdTZNWTVhNkpRUnJzVlE1d25DSFlVUEFrYkZ3NElfc0ZhRDhZQ1hTM0VBTE1uUFF3T2pyamlSNkVRTGNn?oc=5",
+   "source": "Stock Titan",
+   "source_domain": "www.stocktitan.net",
+   "published_at": "2026-10-02T21:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Is Lithium Leadership Exit Altering The Investment Case For Mineral Resources (ASX:MIN)?",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFN4QXlUb2ZqMlNFZUl0eDlGWW1scEVPNVJTX2h6R0xGc3N0V0hhMVVVemVDZjRBaEk1NmRjcFE5UDBnSXNCUS0xeko5QjJsVUdIVFZYX3RERlBHWnZoNmN3dnZHQk9kQ2piRXc0Y2Z2dHlfcVotVFRTVzVIMWlYMEFDUXNGS29Ua3liRGJVZy1NM0RIc0lhZC14OXZCZTVJNlotM3QxWXVsdGw3Rll3VnVwbWtsTG1EdlRWb0J1alVzbkZmZWJSUDNBekVMeUVQWGNnNFdB0gHbAUFVX3lxTE11ZnNlMk9Cakpscy1YTGhMQ0RsdXNtSl92V2dHZVpHV0l2QnYyNnF2aUVhaHlpRS1xeE14LVc3XzNoVzNQeEZoUlZ2aUdZVlg0UmZQY2ZSVWNoRFpwUXgzUU5qWGdMUGdvNFprUElfOVB0RW5qQkNWNEVPWXU3UTNIcVl4b2xGNmVwZE90Vk1FbGdPY3BPaWk4Q1NPRnVnTjF4TU1mU3RhOFNRcW5vLXl6YmJzNWNPeW0wZ3Z5R2YxOUprck9TYXZuYVpDVGRfbml4dmVsWFRHMThEQQ?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-10-02T20:36:27+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "How Investors Are Reacting To Pilbara Minerals (ASX:PLS) Pilgangoora Expansion Continues",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmNFMmU4ZkgtV0VXby04b3J0MVUxRGtBbkl0Ti1hMXlWRVAyNThLNDAzSWtKNE90TnBndnYzSTVjWWFLMHAyT0IwRFowMlhXTDBZdnJjWE1QMjQ2ZkVmZktpamtmaG5NWkxuQlFEUTgtdENnRGw2RUQ5M3FBSHBqYmNvMm5lZEVDRG15N3hwUEdkLUxwazhzQmJ3ZC1EMXBxa0dDb0FZOVlBb3FFMEFqQTR2MTBjeXo0Z0g5YzdJTVVSSjJZNVYwNWVVVTXSAdIBQVVfeXFMTVdWbXlCSU1UczAyUFNZNlFpX08yMlJWeWkwdWRicVBKWVROTXg3MnQwSTJnM0o4S0lqbjFQV0RMTTRhd2d0UkdUSDZuTGFOWFFFemdkclc0cW15UHVwMTc0ZHZ3NnVWWlYyRlZGaHdsMndQNDY1ckJXbGpjcUxGdFh2aUFCYzdYTGxXWTNzUkZrdnBTWFpPSV85VzFWYjdrQ2pNLTJrSHk4Z0VHdGVMak1IazhVclVWOHZfeGt0NVM5LUNoYlFKRDZrZkdMWVN2S2hR?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-10-02T16:41:43+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Q3 2026 Lithium Price Review",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUpwTHRuYnptMlcyRDZXdDhIUnRUZWVpcFo0RnVaUkdsNkQtMlJldm0xcmVJT094RjhjdXF1WHZfSUV4dFpJWTgxb3pyOWFoQzVKNkQtOTdTdktTUDV6UUR2U0JPMlRQaF9ZRElGQWJZU1ZINjByT1YzLUloUi1WUVNWVURpdEsyalRzVkEyd2YzT1Z2blg2dF9DMDNyQUVTLVZrN3hBdFpYU1pfUGc3NFVUOXBoYjcyUkJxdFNYcw?oc=5",
+   "source": "Benchmark Mineral Intelligence",
+   "source_domain": "source.benchmarkminerals.com",
+   "published_at": "2026-10-02T13:09:18+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group vs Mineral Resources: ASX mining shares compared",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGs4VHhmZ0VWYlo5YzlBVDdRMFNlYmhEeXZNVWd3TWEtSVZnWkowdjhiWWV5bG9VempiZk84VWpsQ0ZoQVhYcV8teC1tRjEySFVvV3N0Uk1zSmZKMWNfYlRjdGx3MjZWUHNLMUJUWFJ2dk10NW9vcHU3T3BuUTd3OUloVDhSa3oyRU1fNnNuN0JIYjdSQ2N4Mg?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-10-02T05:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Pilbara",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92OWo5R3d3RjhsUF90MUNIcFZ0cklYa0dBR05keE9rV2MyTi1rMW1uMWJHRHlMdElmaHB3cVBCa1ZxeDNZSGlpYndGXzdYM0doaWc?oc=5",
+   "source": "Britannica",
+   "source_domain": "www.britannica.com",
+   "published_at": "2026-10-02T05:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "EQ Resources Shares Sink 11% as Tungsten Miner Extends Volatile Pullback From Forrest-Fueled 2026 Rally",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aRHZweHNfS2ZreGdWOHIzd09Jd0JmVlJfWWprQjRwQlFMSk9CN0syN01sdzNFQjkxSHVsQXRzWGxjUWFFcVJEWjhwRUlnVEJlOEFhNHo4Q201UnRVUVRuOU1WajVNUU5oTkJoMlVZbjB2Z3RVeERzRU5zQQ?oc=5",
+   "source": "International Business Times Australia",
+   "source_domain": "www.ibtimes.com.au",
+   "published_at": "2026-10-02T04:40:31+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX 200 Rebounds 0.6% as Tech Stocks Rally and Oil Tops $100, Leaving a Volatile Week Roughly Flat Overall",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0weXJ1c21ZSEFFS3ZaZ0hrVlluSUJMQTZsLTJEYzgtN0JPWm5OODBVdDlCYWhKWVU1TmZYWGI5ekE2SjZjMkdWWk9MS0tKSUtncnJfSmdBOTk1eXRnS0c1MzRrTUEyaVFjTUFsbF9ZYktfU1NkblBTUG9B?oc=5",
+   "source": "International Business Times Australia",
+   "source_domain": "www.ibtimes.com.au",
+   "published_at": "2026-10-02T04:24:44+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "What does Liontown’s Kathleen Valley expansion say about lithium?",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW5OZjYtb0xJc0UzZklmTmJzRTJaVXl5Y05tcnNpR0xMX0tvLU56MXhmUjlPN1IxZmtHRU5aREd1WXBZeUNMZ2tkTndfOEMtZDhTTWZpZTRDd2piV0pPU19fMFB6OXo5WklPVmYtbUZMTDFqemZGeXkyeC0tbzA5ZktqMnF6WDd1TXB2elYyN3JHWV9JS0lMc0lXbjNEbmtRVHlZV2JtblZmbHZLX3RvcVgyTEQydGZHd1RiQ0ZWRlZKcHhJN2c?oc=5",
+   "source": "Australian Resources & Investment",
+   "source_domain": "www.australianresourcesandinvestment.com.au",
+   "published_at": "2026-10-02T00:47:36+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Jindalee Lithium Commences Phase 1 Drilling at McDermitt Lithium Project in Oregon",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlQ3b3Z2eXdOc1JCM0dIVnFsS1RYT1F3aHo5VTlGbUJWNjU5Sm1KbzBBbmpDR1hwQkJ3Si1zdFprQXBzSmpWTmNsTjNKOU1qMEVMZnA5WnZFVUVzMmNqaFVPZ01YLVk0MldId0pmVGgzRHJJUjlVRUpHTTA0cElUOGNXTHZ0ZnFHMzB0OUttaUFEU3dyREdkeG8yamlTZHE1bUxNa0NaMk9zLXl0bXFpWE1qOS04cEJGNHhueTJiRkpiZw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-10-02T00:45:49+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Jindalee Lithium Drills Into One of the US’s Largest Lithium Deposits",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemZUZ0NIbW5OckhMSmtXNmh5ZmhxaUJSVGNkNXdad2xnX0xvV1l0emNsOVRyVGMtdzMxMlBVYlJIMGZCekdER3VfV3Q0Y2lKc3c2ajFZNXNtekJMcHl1WUhfMmZ1ZFZRcUtSb1UwLWpTVFVZbHEtUzZ4X1VVQlAycTRmeklyazJYQmtWbUprVnRJQlk0Q0lOYnk1bFoyUVAzZ2NqQWp4ZXU3WHlxOHJ3?oc=5",
+   "source": "Discovery Alert",
+   "source_domain": "discoveryalert.com",
+   "published_at": "2026-10-01T23:52:57+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mali’s gold and lithium in Trump’s sights",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWE1QY1NnV2ttZ2didV9DdDlBXzFHNVM1OFlkdnhtOVlxZFhPQUVhOVRNNExlRFhHS0lldzdqc2JpZGg5LXVOS2cwS0t3c2Y1WDJ4RjBrUGVncjJUVVU1OGQtWndXdEEtTVNCSXdiZFAwb2Q4UXZJYUhfNEpzU1NOZ0Nhbi1vdw?oc=5",
+   "source": "The Africa Report",
+   "source_domain": "www.theafricareport.com",
+   "published_at": "2026-10-01T12:02:08+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Elevra Lithium Limited (ASX:ELV): NAL Expansion and FY26 Guidance Keep Focus on Quebec Operations",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUpFN2tMeVY3RE5pTjhnUUp6TnBhVjN0NlJZM1F0eW1DbEpSa2JzU29WZnVGZ2VlbVpid1dDZ196Y0lMZnJQc0RTT1lkbU4zY3FGbnd6NC1DQWItTUJac21GUnVyQkZoRnNyRXRkVjI5TWo4SVZsd0lLTjAxM3Z2SkVqemZNNEpMYmREbmREbEVXdUthNm84QW95bTk3ZnRWS0Nmd0RfNEhiOERfYTliOXhsZlpvTFdzdjhNYWZIWjFRbWFwZlFN?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-10-01T09:20:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why PLS Group (ASX:PLS) Swung to a Large Profit in FY26",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzVjRHppSmR6SUVQMUhUVVo2aEpYOFdhNDhCTWh0djFWZ09PY1ZvNWtBdnFFRUxnRzF3SGw4NWFpek1YNGR4eWFpTEpmVEtPZzdxMkpNaEJwSmlPZkJidGFjUzhVdGVpem9ZNnc4eFNwakdqNXljVVJCS3BLNTh2T3BQZjBDN3czZW9od3dPLXo?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-10-01T06:26:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "MinRes leadership update",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRXB5VTU0Vl92bjR3ZFh2U0Q0XzBlcU5OOExMZUNBZkk3eGE5U0FKcUJSYXBJenQwTGpENVlMcDF0ZUF5aWVMbjVYVi1MX2U5VHo5cENxZXJ2a2p4WHlZV0tIREhTNjlTNWhMMUVnUDVvZUpDTUl0X0tLanp2Tm9VVlpGZUlMYmw1cGc?oc=5",
+   "source": "Mineral Resources",
+   "source_domain": "www.mineralresources.com.au",
+   "published_at": "2026-10-01T04:44:38+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mineral Resources' CEO of Lithium Business Resigns; Shares Down 3%",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUE2QlBIYXAtQUlGVHNIeUo1TUdVRzloZm1yLTAwSjBZX2tKRnRvejlycFB3U2c2ejU1WG44YXhPbWZoQlk5aThmYXc3Sy1iQ2Z1VDY1YnpvUEswUWFXYmkxRmMybk9wV0FuRFllck9FOFdUVWduaWE4TkRBZ3FNUlRDcHEtX19MVTV5eUtfaXpFN2dueS1ZSklUX21HcEFPNGJTUlZaNDI5YXQ4VkdXRHNkZU9yOGM?oc=5",
+   "source": "www.marketscreener.com",
+   "source_domain": "www.marketscreener.com",
+   "published_at": "2026-10-01T04:33:11+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "MinRes lithium boss Thurlow quits",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1A4bmhFVk5JN005VDl4OHlFTm9FcUJIRnFEMzVBYThWXzdha2IwaWVuSGNKZGNtc0E3ZHNrcDhjZzh5Mmx3a1hwSnFieWJwSjJfcDNzRHhaa0JQWjVtRVVZVzBlZi1ZSWtTMmhQb081M3ZGMURYQ3Fza0hwSTZaekZlakxpM1ZtaThXbGE1WEQ3MmZKRWFDaWl2cHBfY0VnTktBY294dDlLcFZDeWlrR3k2UmdobkRMUkd6R1FRXzl5Tkh2ZGNvQ1NYRzVTZw?oc=5",
+   "source": "The West Australian",
+   "source_domain": "thewest.com.au",
+   "published_at": "2026-10-01T04:25:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "3 Australian Lithium Stocks With Market Caps Up To A$12 Billion",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdERpei1DX1FibHJJZjdnNW5pLVJLUDZiZVotVkYyWGxHSlhzWklBRXFKMFFQV245Q25sUnJvYXdYcXpKUEZVNnNaWjhSUFpDR2s0V1lHS2hvQU13Yzdsanc5aTdCZDBnRjh1Q1dUNUxRWE1rbFc2RkxXamdZZXR5eHJBbnJubS1vTzdRR29KZE9RcWNBR3cycUFfYkhyV3Qx?oc=5",
+   "source": "Yahoo Finance",
+   "source_domain": "finance.yahoo.com",
+   "published_at": "2026-10-01T03:16:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PMET Resources Wins Strong Shareholder Backing as Quebec Lithium Project Advances",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM3p1T3RRaElpVkVsMDNnX3FpdGdLb0U4dHVHRmhWMFFWeHpqeEJfOG9nWWUxWGtBR3ZiSmhGMjRRa2c3czhSbFFWTUdxdFdjcFV0VlA4TXlTTk56bXVCeDZGOFNDLUFhNURtbm1xcklrVVJkX0dka19jOEVxSkFpRE55bVRheTRIWEt2MzZreDduUkxpOXNySDF6eUpNNndhQlpjelp6TjBmM3ZrMG9RMmRLN1hJcGlUUkhLcEpiVEpHVGRES2sxaTB3dGp4dm9zOXdidm1pMGotOEU3NjEwTmVRQ0tnTUM4Yms5ZlEwNkNRaXEz?oc=5",
+   "source": "The Globe and Mail",
+   "source_domain": "www.theglobeandmail.com",
+   "published_at": "2026-10-01T02:48:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Liontown Heads 3 Australian Lithium Stocks To Watch",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0JuOV8zLXNveVBFMHY4TEhleVE5WXF3OXY1NDhCVVFXeHlrRFVPVDdVWEhoalRMU0E4bW04OVdVWlJFSkxZcDdXYS1QenNlZmhvYjNqcC1acENGTXN5bzB6alItNnlhcm1IdDUwYjlWdC1FQ2dpWEpibjBlS1FrME1XWDBRdXVwRk1oOVBaWHNpSXdMVGZRNDhhYUgxeE1iWGxFWVN5OGc5YUtaNWlLVzV0S3JMM1BEYW1XdmNuSdIBxAFBVV95cUxNRUd3S2Fhc1dSSlpoZXFfTmxmTUJaNGMwUFJPeDIzcWpTd0F6bXhaTHAtU2dXV0E5bWVMeDh4Sy1OVk5qWENDc0l0LVY5UEw2d3FQVHZrOVdmeEJhMHY0ZmVXQms0ekFxQXdZaTNGMHZCZ2dfaEpac09PYXBZRlo2RHljb3BlcUttb2U5eENoX0JFZHFuZFRYcDJxdFFKMEVLWkJIMnhrRzVScHpGZ2tIcjREMmw1bUF0SG5kb2p6QWhyZ2lS?oc=5",
+   "source": "Simply Wall Street",
+   "source_domain": "simplywall.st",
+   "published_at": "2026-09-30T23:38:04+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Elevra Lithium Limited (ASX:ELV) Ewoyaa Sale Update",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDVwTFpiZWZlQ0pJYmdrNkxTY0pSdzltNm5UeEtNNmtSdzRjUUM4b25obGxIdDYxczlNellUb0M0R1Y3TFdhVnp1NU5qSWo4WWhjOVNRSnVLekNyWVJXRlM4MERCMXdPZHpCa1NkSXpCMmxQckhLakMyZG5nWjlySkdUSmVmLWJoZmx2bG04OGEyQksyZ2w2czJFajVtcHVKclE?oc=5",
+   "source": "ABN Newswire",
+   "source_domain": "www.abnnewswire.net",
+   "published_at": "2026-09-30T22:13:38+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Forget PLS, this ASX lithium stock could rise 80%",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa21xMWZNdkNiNkg2SnlKTFZNdHJfeDZxNEpfc0NFei0yMzJRakQ1ZTkyVzZocU5Cay1vMElpOURFWERCT1ZYQmRwNzlZelRmZkIyX0oxblBhbzZESEpvdTdENUl1UmY5Z0ttQkZGR25qVDZTNmpXcTluM2dTZ0VOZkZLTFM5b2FUMmYw?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-30T22:03:48+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Winsome veterans reunite for PM1 critical minerals push",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRkx6dlpqTERwc3hheDg3dzEyRWdzQU9nMmdZX3ZFRkIwanVyeERoMDBCRkRvUWZTUzlQWVlVUnh5OXBPOUhfRHlHSXJaTGZjM2FPNjFhV3Q3cXNRQS1CMElSbDVBMlFKSlRoVU5RWGJXWktjbWhaZlA4N01oQ3lKLU0xTi11M2xOZmdac0dWWEloV2NpcmdUU1k4cmo2RnItMHh6VF85RWIwNHFBZGVsVldacFMteldlSVVobUo2THBOalBGQVZ6WWZXUWd0MmxrdHNLcF82WTEzZ1h2QnV4emgxSnpXTWVZWlZINUtRTlZ2M0JIMUd0bmZSSnlMVWU4YWdIbThSdw?oc=5",
+   "source": "Townsville Bulletin",
+   "source_domain": "www.townsvillebulletin.com.au",
+   "published_at": "2026-09-30T20:43:47+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Burley Minerals Limited (ASX:BUR): Cane Bore Iron Ore Drilling Advances Pilbara Exploration Strategy",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLV9EX3NuSTlsRk0xZFdBNDJvU21EcjFXZGhUbEExR3ladXVqb1plQzZjNFI3MnYzcjZSZUpCZXMxa1FMTVBzT0JTQXVrN3l6WDRzTDlmOTJZUmh6WFhSTDJKTndUbkpUcmNvc0hUd3ZJWVNDQlJ6N253eEtLTVo4MkdlTGJLRmluajA5NEdfdDdGZ0lxd0ZDUW95LVJqN081LWd5VTVFc0J0VTNZVFQwbDFQUWkwbXdfcmJjME5MV3ZRaGhJQmNjRGZKSQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-30T13:32:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PINSTECH, OGDC Sign Contract for Lithium Analysis",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1lBTXBzYURTZlVUajQzLVhteG9oNHNjTmE2cUZXMWFXQ01DNk53bmJpVXZtMkN0MkQzM0dubm5wQ0dQODRqMXZIUXBDb3N1YThPMTd1dFBnSUYwNDRBY2tMdW5QWlBMN2ZoLU9iMFM5d0tZNW1qSmJIdW5yTVBxMGd3?oc=5",
+   "source": "Digital Pakistan",
+   "source_domain": "digitalpakistan.pk",
+   "published_at": "2026-09-30T10:00:53+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Australia's lithium miners expand and reopen as prices strengthen",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVNLU0p0bGNockJSbGo3YlVvNzNHWDd3bEt0andPWFRENm5FTHJzRDZnbVZuT2czVW4wZEZJOGxKel9PeE9DZjI4NllpZEJfZEh6cFhHUVo4ZlVCV3BzbWpiUV9IejF0bjFzNmFNSUdZaTV4NXppQnlUNkVMc1FxOWw2TEpBZHkxRVEwVEhGamxlMXFkRmM0cHhHTHNpckNCenE0dFZNbFlTR1hidkxnb1N4VlhXUXM2TWc?oc=5",
+   "source": "Nikkei Asia",
+   "source_domain": "asia.nikkei.com",
+   "published_at": "2026-09-30T08:13:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Liontown (ASX:LTR) Approves AUD 389 Million Kathleen Valley Lithium Expansion",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmw0WXR2MWRTSnZPZFdRMlhyTjZ2Rmk0UmNaS3Zrel90Q3FwVVpGSTVqcHBwamdBb0RTNnZUOXhmbGJhcXB2VTBWdDFEZGJMQ1V6eThJa19HWDBLNlFtMmpqcERweWplQjdsQkRGOTdBQk9vcl9mUXVIX0pUTkVWdFQ1SG5GZUUzeDNXNUxNMW42RG5Eb2JzT21QdS03TTBTbXR5OElFYlFudy1mUlE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-30T07:42:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "2 ASX shares highly recommended to buy: Experts",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdm8zZnY2WXpGTWJISEg3czQ1cnpUcWtYU29COG1fM1g4dUtTd1RPZVBfeGNjMHBJN2hZNmNjc1ZnN0l5UlVCdnJjTHpQb1lvYzJKbUtQVkI1c20tUDZaVVRnMm8wa1VLX1BhZW9pR0s0dlZCRk5TMTdlVUNCcEUzZHlLSnFVRkp2VkRMYmpR?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Liontown expands flagship mine without Rinehart or taxpayer funds",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWx2ZnNKcF9HdWMxMzR1ZXZxampGQmwxUTdET2Q2dm1hOUVRems5bldMVFlrSEpoTGs1NTdOc0FpM0FTbFVLU2VibWVoS01yUHVIa3hsalRnOHJKSGNsN2xET2ttMEVER1BhTm94ZlBVb3hJaURfUUlTeXNub1pUbk5Pakk4ckVYa3FEbDRRdlZEbjk3RGdGeEJoT3dUalFnZVRvWFZVa0ZRNVN2elZQY2Y0TQ?oc=5",
+   "source": "AFR",
+   "source_domain": "www.afr.com",
+   "published_at": "2026-09-30T06:15:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Can Develop Global (ASX:DVP) Extend Woodlawn's Life With High-Grade Hits?",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblB2ZU53MFdhbUNmZjItZnYwbkRrLTEtaFRWZ2JWekVOZlgyb3NVZVNscXh5SW1WREEtMjE2Y29RSXdtNUFzU0djbnJMcHpKZG15dHdrd2F6RGNmSy1DZkVTQXRRcTFsZkZKNjVESkVfUXNkS0dBWWhYNjAwOXpPMDljWnZyT0pudWNIS3Q4VFJwQWktUnYySmdmNDdOdmwtYXZVOU15R3pmTGdpZ25PWHdaVHdZWUo1NGI0ag?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-30T05:20:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Delta Lithium (ASX:DLI) Plans Six-Prospect Yinnetharra Drilling as Mt Ida Testwork Continues",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWk8teUVYZXFiWFRvWlg2emI5NllDZnhIeUtmSzV5QVFaaWc5UGdBMmRYMmZaSXBTWWo0SWNGblZkUlRmUnE2bng5ZWtCQ2ZEakZ0cmljWDh5cURSQUoyc05PUHk4VHVvY3JwaTBYZU9aV0l5QUZDYUk5MGNkLWVaRWxiTENvcWFRV3psYkRmRmxEOW4xclhZZjJhTkQ1cFZJOVNBczJHM3dMYUl5dnllc1NtODVjNzBLaGRNajJlVWpHdw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-30T05:05:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Can Elevra Lithium (ASX:ELV) Cut Costs by Expanding Its Québec Mine?",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGticUEwRDdQc01XVTVTdjRRM1EweHVocEkwai1fMnFIQjFiN0xXa1FKNXM2dE1QeDNsNE1raVFxQmVaTkZfbU5BQ1N4bDI1U3RWbUJ6Wkd3LTJ5dkwtaHUtMS1KTjZvQjNZMmw0ajFVWkN4MlNzWDRXdFhtSXl4Zm1yd0pneTBjUDR3RWprMWJkMC00cnV3Y1ZqczdXRjJxb01neThOVnV3UWM?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-30T04:40:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Venari Minerals Delivers Maiden Lithium Resource at Red Mountain and Completes Annual Report for FY2026",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONWtfOWdtTFRpWFlvZENvSkYxc3dpSnRmeWhGTlM1UWN6dUhiYjI2b3lDQXVPWHVIOEE2c3B4dlRJQmxzckctcTFRT1hZb1dpclJGaUQ3ZHVCV2I0aWR2WmRUdWdraUF5Z0tVemRvT1BaZXp5RDRheml0cjRaV1dHb2V4RUpkQjdwRmNfTkt4UWlqVUNUNjRWcVIyeGlaYlJoYnd3N3NobTVNXzlDYWxzZ1ItUHJrTDk2QjlKb0dTNHhoSFlqb1hsWXdtZ29UbHBkOElYaUF3N3ltN3RoLVE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-30T04:27:04+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Delta Lithium Advances Yinnetharra Drilling and Mt Ida Test Work",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWlDd2lSMmVxWlNGS09iRWpiaVo5N19HcVNrM3FUa2M2ZzRmcklaUl9vUXV1d0doT09LWVF3SmRLXzJtYjFqSE56c1NFUS05X0NFTTkwUXFtZmRhRFo1MWdzZlFHRzNDcXhha2tuUFV2UmJIR1dKQ3BDRzEzQWxlTm5OVlJlOEoxdkJRUnFLTEpUR0M1eDBoNE1sQWZGUQ?oc=5",
+   "source": "Small Caps",
+   "source_domain": "smallcaps.com.au",
+   "published_at": "2026-09-30T03:14:13+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Has Elevra Lithium Solved Its Production Challenges Heading Into the S&P/ASX 300 Lithium Recovery Cycle?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeVY4ZW9zTlpYdlB3VWQyWlJwUmpqQnlhZVhmZjNRY3l0a2x1VUR1UW1iSW41X014WVFWU3JmQzZQVElsV2toNGdiYmxxWDJHeGwySnFfcVJaRmo2Qmlac0NraFZTSkVxQWN1UU42aU9zNG1fdXBUWjBZaVNaYUw5QV9GR2NlbEZnRHZ6a015Uy1tZHFQd0VtX2NIcGxyY2RSUElLTFkzcUdSeWJsR3NnX0hFM1hFUXVDZUVBOU1ueDNEMWVyZjZfVDZuV1Z6U05tNEE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-30T01:56:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Does First Concentrate from Finniss Mark Beginning of Core Lithium's Return to S&P/ASX 300 Lithium Producers?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS1BLWDFUQm1hTVVWcGFPT0JuTjBlTEJjaEtwZ0t0YkQ3THZTbHM4Slp0eXc4OThuWnd0VjBxLVBuajYyVnNMdkdTM3Z2aC0xX3lIeWFzcHRRY19WMkxIOV9YNFZpVlMxYk04dG5KcjhLRlBIYVFQdzV0VVRJLVZrU2xUVnRqVDNWTHBZV2hBNFZNTDlnS1Vzd0NtaHExY3BXaWRBbHpna3ctOTFLeFdfbDB6RmM4OEw1ZHJ4YzIyUzY1LW1vREJNTWpyRHRhZ0R5TzRFMk8tMA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-30T01:56:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Could Pilbara Minerals (ASX:PLS) Face More Share Pressure?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUUySHQzMl9SQU9CUlAwMUZmb2c4dm02S2VBY1BKRGNYMkNxT2FjMjRiUlVkY0tCT0hnR0hYN0RsTGdpNHdSUjdHUUlONXJ2WW4tQ3lYUzlBYkhHY3Y2bmVyN3ZLcWRzSFhNYWVENVJ0Uk5MTENpWWhYVTE1MEVmODI3VFFRU0ZkanljMHl2UnlDc3FxOWtjdElLaXZabmJjNzhJUV9WTFBDZw?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-30T00:11:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Morella–Elevra JV Reports High-Grade Rubidium and Lithium Finds at Mac Well",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUEtRndkYjl5bDFob1ZNTHB4ZU8wekdpbzg1SmpidUxURnQ5SWw1TjBOel9WNE1mSVlHSEF0TEx5d2RVSmF6OGU3ZWR5aTFWRmljTU5DNUUyQUl0bkFWRmlxMGxfQ2N5cXJiOEowZE1JWXhpUldDRHNVWXdIa3RQYVI2T2RxZ0ZnWWtVQWdDeWxXLXZWblc4WUdGSzZSQzdzYWg3ZkZKQkNxNmlBbWttSkdKU05yR19sSHZCZlpJY0VpY19RbGc?oc=5",
+   "source": "TipRanks",
+   "source_domain": "www.tipranks.com",
+   "published_at": "2026-09-29T23:23:11+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Wildcat Resources Showcases Tabba Tabba Lithium Project at Diggers and Dealers Conference",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalJHS3BwZk5lSV9Ob1dva1plT19uS0RsQ3ZTZTNKbGhSYnhnOFBjOTlhNFBoV29lRFdXOFBUNkdwaTBaZXZyTm5LVjhNbGNIaWpXbGVYUFZGTWZkOWQ3elduOHA3NnRvbU1waUFsOHRFQ2JVZXVzWFNvaFczeXlreDNWRFVPSUR0LUpkYzhRTFV0ZW80WnlMN3Y1eGdabjNWeDVYTV82cTFJQ25XdTMwVFQ4M0s4WFZPVEd6aFhCVFZxSnUyLV85MWJIMi12Wngycmc?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-29T23:15:02+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group Stutters Towards Q4, As September Selloff Leaves Stock Oversold",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUxzSkV3TnBPTTJ3MlVHaThjZWxDR3RYbzVMc2tmMXlCVVZKYVlTQTdHdzdqeEI3RVN1VkhtREhsTU9uOENhVDFtVHFLOWwtbTJXWGJLQjFWcEZIQjZ1VlJnV1IzRHJ2QUg1cUQ1dzJ4LVRkSDItcjcyZWZ4RkdPTU1sUml6OGpNMl9xSE1QcHRQRHpxVWdPcjlvbERxelVFNnFR?oc=5",
+   "source": "TheBull.com.au",
+   "source_domain": "thebull.com.au",
+   "published_at": "2026-09-29T19:46:58+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "WhiteRock Lithium (ASX:WLC): Spodumene-Bearing Pegmatite Intersections Continue at Banana Lithium Project",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzlwaDdkNFBrSTZSUzNrLUFzU0FvMk55aThDT09POC16dnRuU1J3OU5ZbTRYbXFadFdYYkNad18zcFFVdkU1cFgwbzNzbDRiclJLR3BvN1M1azJoN2N0Nkl6X09ReHJjTTVBd09LZEJpLXE1V0NCSGljUTRzN1RsOFk5WDFCUEcybTk3Zm9kZ25BV3g4VzMzQUJ2ek9mVGxTOVViSk1GWkZyTmtwZklVVlRpMWdxTmhyN0dvQmdGNUoybHF1S0otTlp0WWd2TER3dlE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-29T08:48:25+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "North American energy storage to drive lithium carbonate demand through 2031",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
+   "source": "Mining Weekly",
+   "source_domain": "www.miningweekly.com",
+   "published_at": "2026-09-29T08:44:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Anson Resources (ASX:ASN): What 17 Newly Approved SITLA Blocks Mean for the Green River Lithium Project",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0poZ0ltbm1SYXBXMU5vNXlHNG1rWlU1TVRsYmFUYUgzMzJPLW5IT2hwZGtLRERuRXRTU2ZYTFNvWjdTTWQ5dG5md0NPZ2pMbERLZmxFUW9kekN0b2VEOENvN3cwNEF2eE9zcl8yZ1o3TERwVjF6dEJwSmRQbmZKUGVHQlhFbG1GRnhXWjR5dkFCOThlQzRuaENQNVAxYUtPbEVzRVZCMkFYTFVuOU80cWxwSWQyc3dpbHIyV25aWmZleDlpTXh5bU83RUFuNlE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-29T07:06:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Anson Resources (ASX:ASN): How Do New Utah Mineral Rights Expand Green River Lithium?",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlhGT2J4VGJtSU5tQkFyMnNEUWNzb1NVdzlZVFctMkczMWxSa3dBeWNBWnV6WlhwdkgwcTN2N19mQ0RBS2djQkxOb0o4SXdvNWRhbHI0RDVCUUZDV1dTS0h4QkFGUUY5dWxwOEYzdmVrVzAwVndIMU12Znp6dGJ6dGl0YTViMHZfek9sZTJoelFSbm9aSXBPaXNaaXBab3EtcXJrelpkbk5pRHdITUctMWxfRm9nUQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why Onslow Iron has reshaped the investment case for Mineral Resources (ASX: MIN) as it joins the S&P/ASX 50",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORWJMRjFxQWVnbWJqMzRTdjBsdmZ0cF9oeW1DR3F4aW5vMDYzTXZEa0hpZ2F6aHpNS1dPNWtsUFlZR2xpcVhjZmRTd1F4WjBPaXFPNWNCU0RHd2hPUjFPRy1GTVltQjdhTUdwel9DZmZocDZJSVc5OXNBTWZWX2RUMlpodTZQQ2pwOUZ1NHpWT0dKMXhRbmhiRFVObHlUVnNQRENHOVludHdRSDdsMUUzaGFuM3E5YXBISklYWE5mRmc3bDdsUXZCQlEtMWJYcnd3ZFlIaFp5T1RwanVhU29ILTBn?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Morella reports high grade rock chip results",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLURoR0FRMUNnOGFEY00xcGhoM0t3NUJpbTEtTlF6Smh6S2h5SlZRWnNubi1jM1ZuQmdJdHBwdEdxZHFmNFJ1MFZqdTFGN1dPdHNHbFJIeWZxZEx1djdYLTMwVWZJY3o4Ymc5U2g1dllBS21mT1J2enFEV3pPd29LQmJGbkpaRjQ?oc=5",
+   "source": "grafa.com",
+   "source_domain": "grafa.com",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why Core Lithium (ASX:CXO) Producing Its First Spodumene Concentrate Is a Bigger Deal Than It Sounds",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2FXdHVqTDB3TzhfZ3M2Nkhram5IdlVHR3RlTmYxYmNYMlhSMjVxbWp2VVBxZ2JCUnZZa2F4a1NxZFk0bXJuS3FpRTk2VHpEbnRWTEYxeVotNWJ0ZUNzcXNBX0d3R3hUZWYyTUN6QTM2MXI0bUk4U2lZQkRRUm5yeXRaVzllSVFDZy1qQUVUTFZqSXVnaXphVE9BblZCQjhoX1htdF84YkZhMkFvTXRseV9Oc0xMMVdwUzNoMzZvN0ZRcHhubllnb3BHbTA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-29T02:23:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Wildcat Resources at Mining Forum Americas 2026: lithium push gains pace",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ19yRFYxblB5NVhPYWpTblZpa2NONUFvaGo3RnZna0dtMFJhZHVfb3R5TXBWWWJDVk5FZTJwdUZ3R1AyUDRiRGJyOFdCQkM0bWhKNmxQS3NfSW12MGVFaG5hNklDTGtacmJlTmRJV2xDajBsRW9oZTBBSnJDVFprNVZfUElWN2gzN3daRW9ubExwV1g0MDhkUHNhSG51WnJ4WURfczd0MzRrODY0Q2c4Qk50YzNfaHpnY1F3cGZuSHFBcHFyb0E?oc=5",
+   "source": "Investing.com",
+   "source_domain": "www.investing.com",
+   "published_at": "2026-09-28T17:39:58+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "US, Argentina Launch $7B Andes-Atlantic Corridor to Expand Lithium, Copper, and Energy",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2tkcDZqaUpIbFFPQXJ3Zl9BZnlzekswQXJYSUx1SzZuTUZhcEJXbjFLQkhQcGR2X1EyZkpUZ0cySjZVYy1LTUF6elZybU9UbkFTTWhJU3JyZVlWLUg0b1VDQ3Z2T0VOOG1Ca1VGUEp0OTNNWmtXOTdCSEgyZzRqTmJwdWhnMmE2MUtFOXEyNkUwT0FhVUpUQ3UwU2N5NlFqSjFhaEhlTUY0bmxIVHc?oc=5",
+   "source": "CarbonCredits.com",
+   "source_domain": "carboncredits.com",
+   "published_at": "2026-09-28T16:40:09+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Scotia Metals Found Spodumene Boulders Next Door to Nova Scotia’s Only Known Lithium Deposit By FinanceWire",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa3EtQ29sb3ktVWRMSkJxbGMzNXMxY2NBOGhDLXFCVlhBdjB4Ul9Jd3dMbTZkRERSZWhRNUN1MVdZZkFZb1R5VUVTcjNzUFVOUEt0Ny1LcVRVd0RMaG5lNXdBSTctdGFEeGs3V1lHSUJqRFZfMjRMMEN3RzFBZWhHUEJyc0x4YnVfMWVkMG9zdkpzVjE2VkJ4WDZ0RkdYanh4cmh1NDBKUVcwRkhEbFRCVDd0YTZVMVBKcnlKaFhXeUgtODdJbzlzdThVa0UzdE1OVWZmc2FRcVZkclE?oc=5",
+   "source": "Investing.com",
+   "source_domain": "www.investing.com",
+   "published_at": "2026-09-28T16:27:40+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium rally boosts earnings outlook for Mineral Resources",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEx1T0R6NjlUdlJiY1JIY1ZkWTZKeTY1SEMyRG53aGxIb3paZHNrN01LWlNvVFNBaUcwMnVfWktqcW93MzM5V1UtWTFMRHgwQkdfQVB6UU5JVFdrU3QtWTMxMjNsc2V6a3ZWdTVpdEpCRm1KVGJGY0hlSWM4R09Ib2c0TkZvVlVTMVE?oc=5",
+   "source": "Mining.com.au",
+   "source_domain": "mining.com.au",
+   "published_at": "2026-09-28T07:32:35+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Inside Billionaire Gina Rinehart's Key Mining Investments",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2c1cxeTZuclhKRFZtSGtyZ1V2dlQ1R0l0WXY3ZHB1d2FGUlhjdEluelptN0FhYjBKb25scllzZU9HdkRoZ2pvM2FIU3N5elhFb2JlOEoyQWwwc19yeDNIbF9tX25jMk51YldTeXl0NG0yXzU4V1E?oc=5",
+   "source": "Investing News Network",
+   "source_domain": "investingnews.com",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Deterra adds copper to key iron ore and lithium streams",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSWR6TGpDUmZWdGpZRWdDZE5OWGZja0hwM0dPWGE5NkNWZ2M2UVVLemxaU0NMT2VUa0x1VWpGczd1NkVHWGJ3ZDVVR05uYzh5ZXhoSTg4MWV2WFFkeF9wT3hMWU1RclhYSk5yb2paOVFQYjN4WWo5NGZIN1lIQmZVRFkzQU1DTzN2TzdoSHpXN0d4LXlNRGhxRVdDOF9rUGR6OTRmTnpJSkZrS2Zid0tCUkdRYXgyQm5JbktCV0dPMUhNZUFXMUVEcWxoN3MwRUpkekZNdXVXTnIzd25ScFF3a19IV1djazBLT21ORW9R?oc=5",
+   "source": "The West Australian",
+   "source_domain": "thewest.com.au",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYzhjNU9sX3BnU29RcnBsZWdHSno0UWU2S05BeVUtUVM2Z2RQcjAzaUs4Qno1NU8tRFN6Zm9EblJSa192MUVjMHRtaWhKMGtfVjhyVFV0V2VwZDlTaDBEMGpveUpXeUNDQ1pwYVFvNUxRWFZ2YUkxS2NJZEpockp0WUFJTVZLMG9oWWhyWm1RZ3gtQ1JWaUV0bE1SQ0hNTjdPNXhka0FqQUc5TzZoaTB6bWZpYkRhUDJhUE81SnNDWFFYUHVpbG9RNkQyQ2t1WENiU2F0Sk5mVzhfajNUQVVhRUFqT2xpdksxSGhkQUVBeGwyYi1scGFLWlA3Y1FsSVFSSUc1aw?oc=5",
+   "source": "PR Newswire",
+   "source_domain": "www.prnewswire.com",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Fulcrum Lithium Reports Phase 3 Drilling, Geophysical Surveys and Maiden Mineral Resource Estimate Progress for Year Ended 30 June 2026",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaWpZS3pidWt6dHdhcF96SkVUSDFPbDV0aFRCZ2JtRjZORHlxa1ZxYlJuZWJ6UXVaY0NMWWs4RHkyQ09EemxpR3Q1d3FNeTNiYXJqRnNsNHY1NjJEYTRiTG54MHU3bnM3MjRfdDM4ZjZhTTlpM0pIVnJIaDk3bjd2NWdaTlJHZGJyRkxLTWFycUJFZGF2cGwwOHpjcjRGV19XWnNYdWtzOXNxcmdYeDU1Q0tTWENJY3Vjd2F5UV9SYUNwcElpT3l3ZnQtX0NYNWF5SkNFdHY0QWlaWEdON1dYc1JmZVVpeW1vUjI5WGxKNnZLV2w0UTBDWWVPOXE1N0ZkeW9kSXdENA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-28T05:54:35+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "MinRes Air grows to four aircraft in two years, eyes another",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41LVNnTW1INXctUEwyekFpMHlrR3pacjJ0WnBGcFlkQnZfZ0JaQnYteFFVN1NSN3RnYTNBV095SmoyMWlWR0praEhxN1dZNm9ES3NGaWtGdDVET2tEYjZaOXlxNVlLa255WWljV01ZaGtqZ2stOUtrOFRhUFBEZw?oc=5",
+   "source": "Aero South Pacific",
+   "source_domain": "aerosouthpacific.com",
+   "published_at": "2026-09-28T04:21:04+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "What Comes Next for S&P/ASX 200 Lithium Players Mineral Resources (ASX:MIN) and Vulcan Energy (ASX:VUL)?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLURIcnJzMVkwMGZMOFZkV1BIYkZ4U092ZnNic0Z3QWZ5WUlGX3pKbDRLbkFTT21iNHNTTmtzVGVuVG9RT0M3RUlXRE9QZUNadWsyRi1ZRnRwVE9BVVB0ek5weW1RZWp3SzdIWHoxSkpYaGxSQmFpMG02cXN1VXdZSjJZZUlTck10RDZibU1nWmducVc4NjFUelBhbEJFQWR3Vm1RU1BjYkZpZlVSY2p3ZWlMcjloRmNmUjJ5V3YtaHRYUXhDMnE5NzNnQmJ6SDNjX2lBSTNlYw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-25T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Stocks Suffer as Spot Prices Slide: How The ASX Leaders Compare",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEJydm5DdjV0cTYycGM4bHFkWkdCQ01BX0o3U1AwMjRXYzc5UGRqWW11YUhCaWpiVXBsYmd0VC11b1BWODV4N2M3eWZuSmZvb1V3cmVqNF9aMm1Rbk9ETWFXbHdvcDkzNmFqWHN1RTlnQm9VSzFRT25CT3lEaF9aT1ZUWTE2dlpWSDZEY2hJd0FjS0I3T01IdUV2U0RUa1RI?oc=5",
+   "source": "TheBull.com.au",
+   "source_domain": "thebull.com.au",
+   "published_at": "2026-09-25T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Peregrine Gold (ASX:PGD) Maps New Pilbara Gold Targets After High-Grade Rock Chips",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2E1b3luQmxMcmJHcU9hT1duSnFDZlItUG12aVlZWGlDMmZmc2oxMURJYVpBT1dCOGJWRlpZaDhIYzVsQlI5N2tVMjctcWd0dllPUEVqYzgxVHZ6TUpmYmpha2RFNWlCNlFObmNYT0VlR1lhUmF6YS03dHlXci15SURzNHhtQkZCcHYxZy1PekVMZkRWYklHb3h0WllyejdKcTlnY3FxMEJQZEVsUVB2cmxMQjY?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-25T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Are Global Lithium plans firmer as Nova deal clears (ASX:GL1)?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGpzMDV3cjVwalBOTF9QRlpCNEtnbDZna3g5dmljV1R6d0tOdmFEZi1vUjM1d2hydHJrQjU3TTBJWjJUR2k5VjRlbndEVFlFTVctbWZLZVEtQkZGOWdCWkZMS0V3bTVNSGJ1S0lfNVZrR2RTM1RBc19tTkJOanNRSDQxUHJXaThIU1U0UEtlMS1GbVg1SU5WU2JWejBkcUpfaVNv?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-25T04:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Iron Ore Is Flat but Payouts Keep Coming: Is Deterra (ASX:DRR) the Smarter Iron Ore Bet?",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVZlaDdGNDVkRGlITXYxNDY3WFMzSFU5VDdKbG04ajZSbFBTdWE5V3dqQ3hzMmNMbnQyLTFvWEphU0hzclpidnlrb2F0X19sSnFRcElhcFNGaFRhUXJpYkNjdnJ2aEQ1NjMtd1FQbWNMaUpsVi1mQk5aeVlMRWRWTGpuT25XanZkX3hicEEtckhpVXdmT3h2RUFuY29Db0tQbHNxek9vcG1nUi1RMzBwUGplUktUN25CYTlvN0FxNUxERDVwdHV0YVpR?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-25T01:24:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "E3 Lithium Closes Upsized $11.5 Million Equity Offering and Schedules Investor Webinar",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONnJxMTNuanMyRTVfNk1xM3N2R1JfenF5cGFPWGEzdFR3dlVNQUJfLThKa1hTRnBEaW90a1lSOE8tN0stWUZTS2txdVQ1UVFMZVNWTzdtTjVCcGxYY1NFYkxCSnd1cGpaVkNsYS1DQUx5QXE3OGlwX2ZDWkozY0hQdDBZdGRtOWtqb1JQbWFMU1JVUFdCeHhVTHoyaVo0QnJGM1N3OGg4ZDFsaEhFZll0RWNyRVk4RXRxbVZDVG03R3NyQmJiNTBiS1psUWc3U3ViTkFDX1hHOXZkajhld3c?oc=5",
+   "source": "Business Wire",
+   "source_domain": "www.businesswire.com",
+   "published_at": "2026-09-24T14:16:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Global Lithium Resources (ASX:GL1) Enters Takeover Timeline as Manna Advances",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0dBcGNuY201YURfMV9wZE5NMG14ZmdKOVVJc183cWVnZk5FNkY3M2xNdGVEcDl3cm1ZTUx4MktaVFhWaEpBSHVBbzZEc1BlR2l5OVBSQlFNek9ncjZCTnJjbUF4RFlSbjdadVBRWlIyMUV3cVZCUFNKUkVGNE9LQU9WVThDV1N0MWl6dzJZTEhyaUMtd0lmWWpfcGlKcHQzV3h5MXB1azNVc1ZjT0E?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Australia’s Lithium Sector Enters the Next Cycle With Mining Scale and Processing Challenges",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWi1yOS1FM2ZxdUdYM29KTGFGUjNzMEwxeEtfZ3l0UVEwM3Z0VmQtMk5ZYnVpTFBKV0JZZGp2bzMzeVJhNWNfWlJMR19XeHNmUHVKb21EcnV2NUFGeWtFMlczb0dPSk1tckZlaUEyZmNsbWMwQzUzb1RQUTAyUW5kREM3YnhVRm5ZSF83bHNDNHRUTEh5RFZ4TWdCa3FEbmZndkxzbE5USmN4c01KdndzUGkyaS13dlR1dk1mM0h5djBPOXR1?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Nigeria, US agree to boost mining investment on sidelines of UN General Assembly",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPellwdk5mZ3huWVlUVmRlWmFSREdWeUxBaUs4R0tOWEZuRDVTX2JkanM4Sk8wSElCZzM0NXlDcm1qUFlGcF9RdjNSV3V0VmRMMVZILUJIdDV6cmI3bjByVEJSRFlEMnhIckJUSXJ4UjdEMjhIYnVwUldtcHZVRjZjcnVKODZrUG15WEJz0gGLAUFVX3lxTE1QdzlKOHFnbDRzcTlxNTFoUFhLbC1ydTVXeHNJb1oxZEJ6NHFrdjBtQi1rc1FJdjJWZnp1MXlnVm41dGJ3U0ZmTG5ZdXQ2TU8tc2xyMW9yVWw5YnZINkdEa1d0Qy03bXZjd3VSbWhrUlFpWE5ablFUYmtfbkhPMkkyZ1VHdmNHUVRZQlk?oc=5",
+   "source": "DW.com",
+   "source_domain": "www.dw.com",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Nigeria officially opens its $700 billion mining industry to US investors as Washington expands Africa mineral push",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcEV4am5HX1l6Y2lCNXNmZ2pPcEZqNDlVeXllVDJBQzJNOF9VSENzaFE5MkYwRmpCS3RjUUdIYUhzWFMzb2wwdFFDUWZxWEdKckMzUzM5Q29rRzNVbEQwc29jblBDZ1p5OWJVV1FPdU94Vi1fSlZ3d1VRNk4yZ2E1bTIzQ0lXd0g3eUx1S0xJcFdrZGtvRFJ3Q3ppU2J1YjU0WnQwS3ZvSTFOV1hSMTlEVlh4eWhHV2R1MmVhbVZpb2Mzam9SRlFzaFJFZmpGR28ydkFQbA?oc=5",
+   "source": "Business Insider Africa",
+   "source_domain": "africa.businessinsider.com",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Prices Put PLS Group (ASX:PLS), Liontown (ASX:LTR), Core Lithium (ASX:CXO) and Developers Under the Lens",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdFNRWXRzclgzSV9iTE10dF9ISHBKX1ktcFpQdFF2UWFUY0VRWTQ5RzVmNmVsQmkzaGlqUmFrVUJfcHRaU1Z2N2I4dl96U0pNN3oyU1NsWUxSQzZ6czdYSUxNZVRiS3JLelNoTHBuSVRPamw5UnBEUWotd2lKTHZLMVF2Z21fNjNheUhfNFdadGJCZDRJRS12NWxkM1BPOUcyZnRUOEk5UU5hTnV6ZWk2WWg2My1sZG02Q2FSYXgzRjhJdDZ5Wkg1c3h2Y0tlaXU4Umc?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX Lithium Stocks in 2026: PLS, LTR, CXO and WC8 Face a Shifting Market",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWpJTkh1Wks4X1p0TkZtM0lRTGx0RXFzU2dFSEc2Z3BSaGVoQUVMc1JzMzVkZEVENzIxOFlZM3lySDdPQVZzWENVOTJIYmJ3ZUppbFZ1ZnY3NzdfVnMzUlUyS0MzOFpKRW5mTHc4UUh4dlpaSEtKRkRKZHpxTDVqVWxNY09QVDB0Ql9xNGtLZG5JVDdoUi02Zk1mYmN3b0RnYkppdFdRbw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX Lithium Stocks in 2026: Producers, Developers and Explorers in Focus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmh1ZTZwb3NyQlUxRmQwNUxNYUwtLWhtWUlfeXFaem50a1E1bF9yVkJRNmgzUkh0d0tJWXV3c3VKZkRrNEZidi1aaVZYdGphUU5FZVBmdUZycjNkUHFXQk5BSXh3Y0toQ0JiQ21QWkZJajRXRlpWT1Nyb3JMdjZfZThDR2F0MjlNcGw5eDNSSDZjYUZmMEtuMDYzckZKemdjX3ZQM3duRUI?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "How to Compare ASX Lithium Stocks Across Producers, Developers and Explorers",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdG8yVjZxbF9yMlVOcHB3em9LTDRaaWNBRFB1Wk0tNmFhRlhONmU1Q0J4cWtQY2JaSWJHVGRLMkpnNG55M0pNSS0wVGN4UHZxNEtLYngzRmowOUNIY05zR012NEJ5S1EwMG5RV0hYZ211VjN4dFVkcjNuQmEyN0hIZWliQXlrQmhDSV8zdklDVnFfWGdSeGMteWZQQThYeFU0OHg5dVoxMG9Gd1NXYS1V?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX Lithium Stock Prices Track a Volatile 2026 Market",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDVGeGQwajNnVWxXTWVqc05oZXJ5MXY1cGZlc1RmR1JNbGpzeEJWWkppUWcyY1Ytc1Z4ek9EbWh6ODNGM215Z2l0Zml5V0RnQ3BGdlR1Zm96V2pVQjlUWVEzTGdwNnZ1eVNqa2xJZHgxV0oxbF9NU3YxcE4ydHpLWFBTNnk4UmdOYkZhV2RBS2pCQQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group (ASX:PLS) Faces Its Next Expansion Test After FY26 Profit",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVlRcUFoNVN1SGdUVWdCS1VvNE5ZSVFVRmlFNkFWRXliWWNXVjZONTRpSU9oU1poNnNib0lOVjRhUHFlNWkyN3VIY3VPY3kwY1hhZXVqeHgxWEYzeFdITUlpX1k3cF9ISlZudlZidEI5T1NYWVI4dWpZc1NXanlxeGlZRG93aTl1cVZ0UUprcmROaU9qaXgtckVQeC1GTTFV?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Finding mining value with Rick Squire",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQV1JPZUg5cm94Ri1OUmhOQVhHSzdYd0tQREwxd0JnN2VadDlqRl9hX2hoZi1oNDh3YkpvOHp4and5alk4b1N2alBMYjlIZGZOSVFFa1JKc2tPV1FSaE4zZ2FaeVF3LUhTYWJUZUsyVHF0Nm55RThfc0d4UlNjcVp5OHRrUTJiRTFYcTNrTWZyT3lORGJ4V3RNLUhrV3RMb2tJZTh5LWpZVF90dFZpNld5a2tiZGNRZEFhQWlnZDI3aUxzMTBVVUVBUDUyc2RPQXp3dW8zODZTLVN6MlRtSUhYMHZSbFFDaEtLeGxoRzR1M3dYV0hlS2RzZFhZWWp0MS1LSnJiODNuQ0VoQW5PNlFYc29Xel9PT29EcXZSYQ?oc=5",
+   "source": "The Australian",
+   "source_domain": "www.theaustralian.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX Lithium Stocks and the Levers That Matter if Prices Rise",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQalQ2XzdWRGVkU1Z5YjBpWkowMGhFNE5SbERRZG5ydms4RUZpMGRWU3FTOENCTHotQ1I2bGZ2R0Zaa3hLekg3SVN3enFJUnpoc1VadzZ5aTZiWHZuZ1BfUV9GcGh0SmRHalBCcWZEb3lYc0ZJN3Z4UUNLTnBFbi1CeTFDb21sTUxISHQyVDFIVUpwV3FPTGczZVRscw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Price Outlook Sets the Backdrop for ASX Lithium Stocks Heading Into Late 2026",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFk0c3dtSnR4c3A1Y09Eb2ZkSUhOMGVtSmpxM2VkYjg1NXplZ0RfSXdkWERIU2x5cTZrYmhmNEVDVVB2cmprLXVjMEZZNzAzb0tiZ25UT0dVYllCY0c2UXZ3Nk44emlFZmdtb1pGOFo2UkkxaExkZTZuUjBhOFlZZkwyR2lnZ1BleFlmZHctMzNkcjMwcFpUcF9MaGl3MlpLZFk3eHNNYm1nWEhiYTBqbl82dUpuMEg4X0lsUg?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Atlantic Lithium (ASX:A11) Moves Ewoyaa Through Takeover and Development Milestones",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW9RN1k1cHUyTUV6Y3B3OENxdEtRUTlxZ2hoNXN0VEZJLTF3WlVZdGc5LXZaUTl3ZHhfNS1LNTlyVFNqZF9VbUJ3MXZYLUxwd0djS0lhdXZmQVB0c1ZWTkV4TzBVR2xKZjBLOG1jTFJEaW9peWMzYTBrbnd0eGpzTUljV1l5UUtvMjM1ZjNHZkZyQ3Ywa0ZndFZSSkFDdzZxaG5ZcDFTV3FYblA2dGNFaDZKTEsyZw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Core Lithium (ASX:CXO) Restarts Finniss as First Shipment Moves Closer",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1psSWQ5ZkI2cktMbDQzQW83RDNodGw1MlZyVGZWRzBYekJ4WHNKaTlpc1F6aTlWRENVWWtWV0hMRzhSbVpaTmxCTXdNVWRUZGk4U0c0bEQyZjVFZ3JoTWlIeWQ5dWJ6ZWN2Q0tERWxUS000ODJhcjkwQ3JxNzlUc1FDdE9Nd1MwMFItaVN4RHk3d1Z3NlNiNDUyeDR6Q25KVG1Mdg?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Wildcat Resources (ASX:WC8) Advances Tabba Tabba Towards DFS",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcm5rWU9zeTNJUTkzSHFueHdlTnJoejl1YTJ1bTY2MTlYWGVpZ0ZjbmV3UU9sbEI1N29QUEkzMVZHLXBtSFpSRmJlMmlYYzB1MEE0Wlg1TGRxQkZQUUt4MzVfcGlVV2Fxc3IxYTl0WWF3dVkycUliWHhOb19BcXJlYXNKbDN2ZVRfdnpLRzV4LVp5MXJvYmhj?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Kali Metals (ASX:KM1) Rebalances Its Portfolio as Lithium Takes a Secondary Role",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOW5TWlVVMm9SX25rWHB2bUpzb2xyZlFpUUNReHNvYm5iQlo3Qm00QmNLeWpfbUN2OGgtQUQwd2U1ZFJzLXBTVDgyMG9sZXJNZ1hVMHR1TzdQeGp6aTFiaEo2RHNiMjBtY3RGaXhnY2FDZVdiSFhSS3NrTTY4ZTZkLTRZbUU4aUhKdjdib1FHdWlZUjdrT0dyZlljQXBINTNvdDduWTU5TUE4R01IVjNGdnZn?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T06:47:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX Lithium Producers and Explorers Face Different Risks Across the Mining Lifecycle",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXRJWXQ1UHV3YnJGTWkwbjllbjJBamFvWFZJVjRaemRMeG4tYVc3a2RVX0x4a0hJSFU1dDJyVHU0OUlmRTRxSEVDM0Q5WGl3UE9mOFAtZUVmVnZ0VFcwX2VDNlhQVVU1dVhHTEQxZ2hkQ0Exb2xVQ0xnS3lTY29VUjAyY2dBaEYtc09seEh1UXNTNzdQZ01WeGJoOXA3U2lCVTFONk5hSGlEVTV4ejNUQ3haNE55TVJ6M21n?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-24T06:06:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Indian company targets 40 million tonnes of Zimbabwe lithium in $100 million push beyond China",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk1xTlNVamQ4YzhLaEhmUWVOdGN6M3FoNE5Sa0hOT2V5NFF0aThJUThheGprYzJMbmE2dmJlRkVxZTlIWU9nQlRLLXJlSVpYaG9LRm4tb1VuVnU2U2RTanF6T1NMYzBrMHZkTUZBblUxQXE4MlBPa3hRM2NMcmo0V29saXJodzFWWTc3dU5NUjF4V19neU5CUGVTWkxYZXlYR3p2dHNIcnhXck5ZMlM3dThPT28tS1NLZWVLU2NkSWkxUEV6bnBnRDRVMW5JYVJqRkxlNA?oc=5",
+   "source": "Business Insider Africa",
+   "source_domain": "africa.businessinsider.com",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS shares have surged 85% in a year. So why are short sellers circling?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmo0Q3V3ak5pMUxIaF9TeVhOM1NDRlJIS3RwZVdUdFhkblZLbWNqbG9SOHBEWE9OMWltdXR0OC1FYzBMSGNYZ29xN0NyLVBRMFpHd1NsaHA5RnJORWtIeW93a3dQbmZCVVRZLWkxR05QUHFUTkttTkhhdl84WlpNWkt2LXU5NGpvOUdXTDA3ZGdyalJSN2tJOHItR2pOdWVnYXByczhjdkI?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Solis drill bit zeroes in on Brazil lithium corridor",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0E4YzN4dXNzQVllYlIxYWswR0dMOGVuZExMY1JNR0F4eC1MbnRNM3kxVWgyV1NNSTBERThTQWRkNEhfUEFOOFhxU0dybEt4Y0hvVUZrUlh1THNRZmtKRTU0Sm1nTDcxd2tsN0txRmZTZjRySk11X2NiXzVrb3JkTUZUajBmUGpFT045OW1QbUtRYXQweC1VTXRRTTlFNHhWbXpZb2N4bjctZkozVFHSAbMBQVVfeXFMT1FNSENzMTF2NU5RQUc2U1JjRFZVOE12dVptbW1wTXlRR2V0bDhpNW1uYmNwSE9TNGhQQnFQRy15Y1l0bF9DOGlzR1hvekRDeHFDTFZZV1BSNWtpSE1TMmIxcWNqSDhaUVN0X0k4cEpzQ3RmNUFMbXlrSUF0SksxQUp2S3BLMWxDSU9Qb1B0MXZVTEFCS3BjYlFVcDRHbVFOQzJwZWg4b3J6bXVIU3V3ZXduUEE?oc=5",
+   "source": "The West Australian",
+   "source_domain": "thewest.com.au",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Solis Minerals kicks off drilling at Campo Grande lithium project in Brazil",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXdsSVNLR0tGalZBNE1MY3lLdEVVR3ZRcGQ0SE5ORkFOak10ZzZTUFA2aVNpR1VSN3BfRmJBN1pNNkhvRXBUUmF0Y0Rnc0ZiOXFaMWpJODByX1JsbUpSUEtKbGVGOWFlZzdRLVFGTjUzZUpNWDZObFJZaDZyQl8wRHROd3ZTTVQ3cGc?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "source_domain": "ca.finance.yahoo.com",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Australasian Metals (ASX:A8G) Share Price Performance: Key Factors Behind the Yearly Move",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWp2bnNGbzJEVWxVS0lKWkNlMmFkZmJvaW9Jd3M4TlRsZ05tZjk2Mm5TT0gzdTNMeGdTQ3JhdnhCUmdZR01aazBiMmg4RDUwSUdwM21Pd2hBSE1nUFpGMnNVMW95TF9vVWw5YVlhQ2RXblRCM043eV9WY3FiWXNScjRmY0xJeUE0cGFKUWFTQVgtVUZCVkNnWmh4M3NJY2djLWdrRW9idS1UQjFZR2RPM2MxT2hFZjBYX0ZXTA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Titan to acquire Global Lithium for $333 million",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jRDB0emVqMFB6bG1LLTJiRUVDcVpBeURva3AybHFHaFZScVZvQ2E5QTRFU1pvSHZYR2dabjV0NE1ZeHMxNWRCaE9nUUdkTGZWZEJXd3IyLWZPVjB0aDN5eExiTTRaUGp5YmswYU1nM1QyWjBTR3JlcmZB?oc=5",
+   "source": "Mining.com.au",
+   "source_domain": "mining.com.au",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Global Lithium soars 50% on A$333M Titan takeover",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ia2RralNSRm9GeVpkZVdLVWFES0N2TjkzNVJGNkg1Rk05SXE1aXdRV0VyVEEtcDEzeloteV81ejNtVHV6RElGcE5oaHNqZ3JMVDJkZnpCSGZubnl3TF9NbVpnTzV6MXZ4NmZPcTJ6TE52MG1mWWVBTlV3QQ?oc=5",
+   "source": "Mining.com",
+   "source_domain": "www.mining.com",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "EV battery maker Titan to buy Australia's Global Lithium in $237m deal",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcU91XzBxc1NUSXhvYkZtN0p4dEtFb29PVHpxOWdwUnc1UGxvMFFyVGZBNDhRcnREMWJ4Si1DNG90cVkwRC0yaUlBR290QVB3NnBsRmNHa3pQdEVSMzg1enE2WDlCWXdLTTJpMUFZbEc3RkNmSTlFeFBBMWNCaU1mVTZ0ZlVoN0FaZmNnd2tSbHZxY1VlNEpuaHdtdmw1WXVKejkzNEkza1VldUdiZEF3bHdkVlVxb00?oc=5",
+   "source": "Mining Weekly",
+   "source_domain": "www.miningweekly.com",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Delta Lithium Reports FY2026 Annual Results With $49.6M Cash and Updated Mt Ida Mineral Resource",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWVGV19sQmNGX1didEJjYWttU2s4bG1VWmRKZjBnc1JRWmtSYU83OHA1bmJ0UENVeHlfRHpLYXVyMWdydGVKeGo0RWlrYlAwSU1YWnMtM19RdGZrOUF6TkpjTWx1ZF82SThCV2Y0aWNCZGlwTGJvM3pZUFFZWktzQXJIaHVmMUtYOE43cXBZY1RKci0wY19STE5fSnVKNHg3QVdIaWdfSWppcmdybHI5RHZVRm9zdHY1d3RWS0FBakJoS0p4QjVlVDI1Z3dEODNFcVE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Surge Announces Start of 2026/27 Drill Program at Nevada North Lithium Project in Support of the Bankable Feasibility Study (BFS)",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPb3F6UW80bWtZQ3Buc1UzYzU0czhRSmRlQ1FHWUxiVXA1RkJWZTgyQU5NOTFkUDVteURqamFoVFZlSW1sbVRFY1VBZldaeXdXOVUyeEZiR180SElMVXRvNWl2R2dSNGh4M1ZHOVFSLW43NVdLY1hVa1R4bUVneFN0bzRsY0t2OUFkOEZVaEZkMU80ZGtpbkQ4RE1FUjNrWHM2N3QzZGxYOFk4YktmWEh6RVcyRjJ4NTgyelJzM3VJMTFsQXdMRVFzOVlqMExneS16MTFEUVJjcmhmU0JGOEFFazhaNGFWSkZMRnpoc001MXViRlNRVkhha0Vpa0ZYa180TXhCeXBZZVo5alhUVVdmTkRoZ2REWXBiWGJ1OWJZOEJlZzB2a2hPaC0zeUZQRV9CYkZUZnRzbw?oc=5",
+   "source": "The Globe and Mail",
+   "source_domain": "www.theglobeandmail.com",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group Ltd (ASX:PLS): Shares Trade Near 52-Week Low as FY26 Results Highlight Lithium Business Developments",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1VLd2hGTFFlNTFIV1JlN1pRS0VUYlF6V1NMVUlMRkZrWVJtWnpnRXkwVnZhT3Y0cDR4cnk3TUV3NW1hRmlGcEF0YU9jX2VLQmVmMHVCdHhYZHFiT0ZhT2JNRW9UdVRTRUlIeDExYlR3VWhDSVVtVkZkeENFZ2pGNVlyNTBrbVZjT0Y1TFk2elAzSFF5ZGRmcU5lcE5hcEZzWGNxOUlwWmZuZFpmVFNZZXRXZi1RX2gwUGtLYWJuQTF3T0ozUllOY0F3S204S3JRVS1uWk9jclk?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Ionic's Bandeira Build Team Has District Plant Experience, With the Permit Still Open",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2ljYS1Ba2hDci0xTUg4R3NzOVlUcXptd1Rjd3VPWEdNT0FrTnB4RTVVdDVqOXRqYkxRNGNUZjJmUUd4YmRMdTNtTjZ2RjFkdmR6WFpubEdxQ3pBRkNtdS1TcHJNTkI1Z3JZMXBvVnNiNURILTBDd3lpU1lpRlg2MGtuOVZrQ0VObVl3ay1HV3pfNy1qc24tVGRZaU5tQll0cVl4REtxcC1DVVZ6SEtXSEp4aU5qTkJxM1oyMHhSUjQ1RHpF?oc=5",
+   "source": "Crux Investor",
+   "source_domain": "www.cruxinvestor.com",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "BHP Renews Baowu Carbon Deal as Scope 3 Pressure Mounts",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjFZanRFZi1tY0pTWkswMVUyQUo1X1M0QWxvbXFBVmlPdmxWMVFXNFVkNUNWNWJPSEZYdDdJVEUxbkp4UGcxVGctNktuM1Bib0d3TVlJRmtxRFZzZUh3Z1VqVllweXBRLUE5NU0zTnoxYWxNOFhsMWlhVFlZcWFsZm03SQ?oc=5",
+   "source": "Discovery Alert",
+   "source_domain": "discoveryalert.com",
+   "published_at": "2026-09-22T06:32:32+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why Lithium, Iron Ore and Mining Services Shape Mineral Resources (ASX:MIN)",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdzdSYUpyNFlld2E1enBYQlludlU1bUJSU2EzcEo5ZmJONWhFYXY5VWp2TDdwd2UwdWd1THQtOUh6Wk9uMEdhOE5KNWZJTEY2V25LVnQ2bHllX01IMEh6c09UVXBKQ0JlQnBmNXV3dWczT1d0U19MbmswMmVKa0dONkd4dzRxMWxKbGpkWHFfZy11VWltbVFlTWtOWnBQM0pJVWZFeWl3d3Z3Zw?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "UAE firm makes $333m bid for WA lithium hopeful",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZDJsUjNfbFFKa0VMaUp0U0lxNTVsd19HaGszRXpzMkhXX0h3Mzc1SmxIUWxPU281RWtQUGVGSEltTDBHNmYzLW16WUM5WHA0S2VKV1ZnODhCOGl1QzJBcjZEZklZYjQtdUlmSEkxMEVlZkxSaWpTejdZS1hQOURyVWpHUkI0YnloaHBKYjlyOU9PUzlfbjZfb3Y1NlB0OW4zTzRaVXZrcG1jUjQ0S2liT0lrVVlSeTl3a19fRjlncEM1MkxwWEZDNEI5OVV6WHhNalVOUXA3M0FSVnVNQlhWRGhmNk5OOTQ?oc=5",
+   "source": "The West Australian",
+   "source_domain": "thewest.com.au",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "An African country wants investors to know that it has uranium, lithium and cobalt",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWVmTFRkNUMtUkF0NlhDelR0Skg0cXpaMlU2UWFoNU9SeGRFQWlpdFpJYjVCLUFUald2dnZzYzdYRWhheXN3YjZZSEc2TFVsa0tFcWNGd0Q2Z2ZZWVNPU00yTHhGYldaRHh3ZWpscDJiVGtDRkpOUzhWZmxTUHNaUEhSdWwwdHR2NGNnTUdlUXpWZWZjYzBYRENDWFA2MTU5TmZ4ZDh1NllXdm9uRDBwRVFlc1Bxc2xRS3FhdzVucnJ5WERNODNLZ0hqMnk4SkhJb05CR3F4NA?oc=5",
+   "source": "Business Insider Africa",
+   "source_domain": "africa.businessinsider.com",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Somalia Confirms Uranium, Lithium And Cobalt Deposits As Mogadishu Seeks Investment In Untapped Mineral Wealth",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmFWTEN5SF9oUFo1RW1rdVA2OTdTUFRieXZicUZTcHU0QUxiZ3A3WmxXV3g5UjBiRm9NdzY5NXR5eURlYW5yUHhzb0VRZk5wandzenRyWGNTTnp0WDk5YVlheE10RkVreV9wTjFhS196Tm9uV3luX1QwMlpXTk1nbWpXaHRhcFluN0J6VFg5azZydEcwMFR5YWpFSUVZeGttRWpUTGZUUTBfWHN0V0xBcFdEUFVvT2JmcUJXTGxWM2h1WFhCai05UE1wcm5tWGU5M0HSAdoBQVVfeXFMUDRFV0JneFlGNGhrd2ZIV19acS15SjBIQzE1a0o3ZXdmbDZobDVWc2lDR2lXM2kzNlBHZ3ptbjM1WEM0ZFotZFM1QUs0aGU0NW1tTTFBcWhjUW85T2lJNXhmeFk5cXFoeXR6SHVZWmRSbF9Temt3a0hkSDlmQ1Fsdk9mNGxORFV3Vjl0MVNqMDNyS1pvRGxQWGpWbFRjVWhfWWtaMHg0eURJcXVvVFlHdy1IT0xtRmVCeGJ5em56UVA4OGpBYV90MXpCcUlKSkxyVmZLYm5hbmdsVGc?oc=5",
+   "source": "Trendsnafrica",
+   "source_domain": "trendsnafrica.com",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "How Battery Demand Connects to the Lithium Business of S&P/ASX 200's PLS Group (ASX:PLS)",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjVFdlRvalNHV3l5WnNuUktIcWs2QnZwT25LYk9mYzdqR0E0bWxjRFNwSVVDVlNSbWpnTmVJd3RRcE4zZUtORDUtdy1rc0JzajR5dGxMOXJkekRTV1Z6UWhoU25jeXZtUjBPYTR1cnFWX2pSZVNRV3RiSDU3OEhUUXBIeTlGSHAtSFpLeXF2VnNEbGhDNHpzWUpqUW1rc29vckNzekZFTUFacDNZcDBEZkhjRUpGY1I3bTRMT0R1R3I?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why is this ASX lithium stock crashing 10% on Monday?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXVCN09MQ0Z0WXVLWnlOS21RejNXVkZYNFRjbVBYeUIzbzRUS0dpd0dYWkpFb3hXVUJQQUNlT1dGRzd2V1RFQ3ExeXhZRWNJU3hlMzduWTA1T1BjcmVQS25xM0FzbHhEaWtJa0tBdjF5VGV3eHFrUjZZNWI1MFBMXy03blVqNVloWklLMVdNOWw?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Wildcat taps investors for $60m",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoUWVOejA2VldYVUltQW9MbFJqd3BhSGVwSzN4QmptbGU5ckR6WlJZakhYY1FkTHZUYVl6ZGJPUmZEeXhBSDI5OGw3RHRkaUhlRzZ1cGZ4WUlDdUdPZkxaTlhxLU5kM042NUlBbVJiWjM1b1JtdDBZMnZ3?oc=5",
+   "source": "Business News",
+   "source_domain": "www.businessnews.com.au",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lithium Miners News For The Month Of September 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVVnQThtbUZCZFNpdXhiQ29Ra3AtTnEwNlM5MFdHb1F3MC1KWVhsbmF1ZFlBcnNPbVZULVdYdWpHSjBQM0NUc0xfV29BRGtwbUlTenJ4c2RGY3Qwb0NOYUVPYnh5OEl1TlJsTllsX3VTd01TLWJfNnpvT2p6RURzbjRIWFlZcjFHN1g3MEljeUVaTk4yVmxj?oc=5",
+   "source": "Seeking Alpha",
+   "source_domain": "seekingalpha.com",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "China's lithium prices drop as major mine loses license; miners report strong H1 profits and expansions.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVVpXWGxXemRFaXFGNUxQZjZNMGozN2NZX3JHa0Voc1hiU0VpX2Rsd1hTTF9iN3AzN0xybC01ZkswUENJREhvQ1F5UFZfSS00amVwc0c0VzJlUXJLdlBmRFpRSFdlSmVVdjM0UFk1MTE5cVl4RUh2NUlZZVd3QS1CT1dn?oc=5",
+   "source": "Pluang",
+   "source_domain": "pluang.com",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Patriot Battery Metals Presents Shaakichiuwaanaan Critical Minerals Project at Site Visit",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEx5cVlOc1FHRnlDRUZzX3dIejFlYlZtOW9Rb1RITWR2eVNXWm9Dd2szdmh5TWN0SkZlMjN3dkxkTE1zZVFlVVU5UHgxM1BFTUdUcWZaQ2hTU29mVHB6UnMtYTh3bGt3U3pDWklCRFpVSVhDUlNpdW9iZTBlSzFob3hOZnlYbWtXT1k1YmhLeklULTBNOF9CeURqb2hqUW9lSGVIbnZGRGFBbnVLanZhYTR5dHZrTm9SVXhWTXdHN3I3N0JvbEJqODRmTQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-20T23:15:04+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "President Hassan Sheikh Announces Confirmed Uranium, Lithium and Cobalt Deposits",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2Q3cm43UDFTWmJFUkJBVW9fT3dwdV8xOFRrRHo5NEZ2UVJkNFdIMDF2RkJOc1FwYWhoRERaejZJQUpndk5EeWZ5UzZBNEpwUktMWkhsaTVTNFM3eHd2ZVBNanVLZk5VZEhkYlVOYmtyeXd4eGdkdVNkMHNSQnBqejNkNjRRV0FycHZJNGhOVVVfMzY2aG93bC15aU5oNFRGMEVCVUViYWZfNUU?oc=5",
+   "source": "FTL Somalia",
+   "source_domain": "www.ftlsomalia.com",
+   "published_at": "2026-09-20T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Somalia: Hassan Sheikh claims the country has uranium, lithium, and cobalt",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzVCN2FzM2hQTFVKdU9XS2tDY09QaDY5SDVDZkYxU0dPZV9zM1Exb3hWSTVQRWY1SENtWWdTYTlmbjRDYUpiUzBkVVlhdTNFazlqeExQN0liLTFYbThKSTQwVnhQSGx3TkFYUDk1dUczYWd6ZzVhTDNTeVJPMERhNVI5b2RIZFh4dTZoVExvVm81bldaQTQyX3dnQ1I2dw?oc=5",
+   "source": "Benin Web TV",
+   "source_domain": "beninwebtv.bj",
+   "published_at": "2026-09-20T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mineral Resources (ASX:MIN): Mining Services, Lithium and Iron Ore Create a Complex Growth Story",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU0dfN1NhVGZRanIzTTlFRHdEREZFS2Y2WGV0UDExT0lUTHE0M0Z6UHJDZG8wVHNqZ1oyaFVvYjBMbERpZDgxcXJwaGNhclFuSmV1OW5YRzc1UUNoNVBkYWxHS3BZbklPWHU5UjdINTd5SlJ2d3BSejFLSF9YM1U5SVlqOV9nckNaUEQ3UEJrRk5rRmthTHNuYmx0VzFzMkJDeWVuNTdzZ3Z3NFlFc3B6Q1pLd3FpcUdYcXNrdGR2dWlpZ2c4?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-18T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Pilbara Minerals (ASX:PLS): Lithium Market Cycles Shape the Future of Battery Materials",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0lwVUJtWmt6UXg0TXhiQnVYdXJrVTZXa2FkLWNDY2tLYkVuRllBOXlVY3VSY3ZCYWdod0NCNWtOcnRPUG5wNnE5dkREYTBkSnI0cE1XUHV4dDRFODA5a1RGS0VPU2tuU0cyRm5TeEVjOVVLaG0zTndKcGNWSW84NS05SGVMMjFZSk5mbnpQTlJXMEl3eTVlMTNWbTBVOURPTU9oUGRZRmxtSUlRZ0dPQ19oR3BrMlBGZEE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-18T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS Group: Ngungaju Restart Adds Growth, But Lithium Prices Still Drive The Stock (OTCMKTS:PILBF)",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWVc1Mkg5Mi1YVE1HdThlaHZVZ0VCWUV3U1lhcTB2NUNYaEVXQmFWTHlhNDFzQi1ORFhNY3NjY194SGo4N1NlNEEteFc1Z0dmQjdTV2JiMEMxRF81dlBiTDB2RzBfTVFFTnZscXNnZU03Z1oybmtBd0duLUFBLXFkMmwtWHM5b0t6bDI1S1JBZUJ6ckxoVGVKUzJ1RFJXa0M0NUhuaFd1MnFkWWFBbzFmT3V2QkVpaG81Qnl2Vg?oc=5",
+   "source": "Seeking Alpha",
+   "source_domain": "seekingalpha.com",
+   "published_at": "2026-09-18T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Burley Minerals (ASX:BUR): Financial Reporting and Key Developments",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkNWQ2hLUjZPWVBxOTljYW5EdFFBb0xwLXFtd0lpTDNoX2ZJSTFKQ1JBTnMxcUwyZG84a2ZYYVpJckoxck95TWN1QWlUM1BwYWxwMENpVjdoNzRkNWdULUx4UU1LWGpVbnp4bWVUSl9qQ1M2SGc4WlhyODdhc1ZVVzhJS1RLRnhoOTd3dlk4cjIzbEdFc1RkVl9qaUdTYTA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-18T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Could this evolving development smash ASX lithium shares like Liontown, Mineral Resources and PLS?",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW1RZHVINTktZnY2UVQwMG9xMmZQaUV6Q3JCNGlkOTIyT0RjempmNGU2bl9neGZxanJnSnY0UmF6VDJ6ZU92OFRPUHdxanExVi1Bd3IxVW5MRk9rNEZ6a1M2SVplYzI5U1FiUzVQdm5NWXZKbFZxYm4zc01IQnVjNVNPNlhUOUJNcE5RR2FTRm5KYWo0a09SeE5GQ1VHenROVU85NjFSMUNuYjFTYk1VS1NOQV9WNnB0Y0ZOdkJKbHlicGxwLXMyVTFHek8?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Pilbara Gold (ASX:PGL) Advances Mt York Drilling Towards Resource Update",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkdPX2VOcGoycXZuV2xYZXlQYjg4bHVLbHA3RU8yemUtZkdCSVhnRzdOMnBFZHhuekF3aUhUSHQyak45eG9IdzdFU0M2eVVERTBCTHhTNnMzOEFCNDRjN0Y3cHFMRHhMU0QyMnh5YVZWcTJPTmo4SnV6TzN0SFAxelBKSzJuNjhkZXBDa1VVQ25qV2ZidFF0dlE3bDhSdWxoVHJsTWlxOA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why ASX Resources Stocks Mineral Resources (ASX:MIN), IGO (ASX:IGO) and Nickel Industries (ASX:NIC) Face Different Lithium and Nickel Challenges",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUnlJRFdaOTVndU1raTBJTXNCTVZFWW9GVHhXREEtN0tDVXcxZ1RvdEdqM2tvNGFTN0xCNjhGZFZWNjBWZHBoMl9Eb0lPdVg4SGJYd1pWMFhub2dCSENlSHVKNVMyZ0FFdFVySk9EcHN2bE0wWEcyOEJ0eU9kQzdRYk15SlV1ZjR3MFRXUFhkdE55TG5Way1yY05EWGZmTThRcy13S2NBckxQeTJLN0xNQVdPYTFCemdZUjZ4azcyRkZlOFlNYmx3eWNUTVc1TktkcUxtdFN1Y21GMkE0clU3ekJaeWFHZlBPQ0VJbFl2ckUzS2N1RmkxNTFWcDdmUQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Patagonia Lithium (ASX:PL3) Commences Drilling at Formentera Well 9 Ahead of Updated Resource Estimate",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmVIQXIzdTVjZWhldVRzQWpVQkRmVURUUWlXZWF4dTBBRUtBWmdSaVh2Vy1zUGQ3TmluMmVGYUZTb0ozelVGWkJDcHFGb1Z0ZmNYbmQxXzlUWUwyNzVVUGNEc3pIMnJZNG1wbDJ6eVhndFVBWkNQN3pBbllxcXkxUmU5dzc5dFlnMVVUT09yLTlCODZVWTl3ZVBHR3ZEWGJYMUYzLTlWUnZ1UGZOVlhnSGxHZWFfSC0yLUVlcnpheHdLQzZQT3FGUm1PR3h4LWs?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Patagonia Lithium Commences Drilling at Formentera Well 9 Ahead of Updated Mineral Resource Estimate",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMzFib1JJMmtSX1lrVF94YWR0WTh0cS1qb0ZBQ0x6QXRLM3RHMFNzVUxnU2NLQmhaZ0xNS0czYlRoM0tuQ3RVNnVLZUlaREpzUkMyNW5RRHhRLTltZzNHQ1dFc0NaQ3VpWlh2MzU1X1NqRDhLQmZQb1M1ODJlVl9JU2pYd09kSlNpZGpmZVZyaTdLVDEzVTdyN1dadm5OQURhUDI3SjZJbEFHcVRpMWRPTEtQcndyWTdSS0RjdnNMUG11cmc2R3RGaXpRNlpOVlB0ZWU2REdtbWVzQQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Quiborax and Rain City to evaluate technology to recover lithium from waste in Chilean US$70mn project",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONUxzUVJtQ05HU0I2cGR2cFJNVzc1bERGSmx2XzBUbE9ESDBrS0RGck5WeHBTYUV0M1J1SWdYN2hhYXlNQ2Y3MmkwZExnbnJTT202T3BIanRPR0tJamFoc0h6YTlTQ0Q1MV9mT3ZhNE9NeVcxZ1Q5OUI2VzlWLTJHVjdlZlUtYU9rUEU4MmtSY1BhaGd0cS1vQlZGd2ZEcXVYa2NETzA1cjhlVndwWm1vc25fX3BPX09pNnpUS05VaG9DbXhfUHlxTkotZVJKYzR3d2c?oc=5",
+   "source": "BNamericas",
+   "source_domain": "www.bnamericas.com",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Is the PLS Group share price a buy in September?",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZENVMWJ4RXZPbUdINXltVGF1UXUzQUhDQnl0ZGZlWVpwdzFiTkxGTXBUWGg5aG1VZDFpRGtwcWVWUFBUcGNmVmthUEhoSXNTQnViNUlFNzYzTEpLd1BhWFJ5cEJqTmhUNWNudUhsZ3RFVndlY1FRbWFVRE1NNkNfM2VxLXA1dGF6ZHFz?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "What Lithium Prices Mean for ASX Battery Materials Stocks Pilbara Minerals (ASX:PLS), Liontown (ASX:LTR) and Elevra Lithium (ASX:ELV)",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTR0WXU2R2FabkhXaE42cENaM3RBaHg5bVBjY01yMmJGQkEyR1F6UFp5eUpzQ3J4T3pBUDFDLTUwVC1VX1dnVWtUSzQ1SGlmamFBaXBLaXdZMEZ5SGpvWkNuNmQ5aUk4dUV0QjJQSUE3NzgwLVFPMVRTWWxZdlVpZXBzLWNUaC1YVWF3Z2ljSTRFc3dnQmMwRExsZ1VhMkJwTnh3NEV3OUdOZmo0SFhGaDNFNXRZZzAxV2c5a2ZOeTI2WExZWDdOMEdhNjBXeGphVTdkWHNVODJrTlUwZUducldJSzZRbEs1RFM1MFZUSQ?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lake Resources Harnessing Direct Extraction Technology in Argentina’s Lithium Triangle",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmlnSDY4SExHa0UzR2NPM0pDS3kwTTVvVXFQRmdFdlFuMm9ka0RsQUlRUzlqSlFoLWMtTFp5QnUzS1VXVlZJSV9hcnRXRU5ISWNZWUZSMS1pdlZ2aEV6WXhyWTlVV0o5UUNhZXZlenVYTXdZbDFCRWVBRzBEWm5VSV91QnM5M1RiaC1pTXJ5dlJIQmxfS3A4aXoyRFhSRHlfYWhpSTE5UEJPWGFzV1dlV3ZRYTA4TGxIU3c?oc=5",
+   "source": "Small Caps",
+   "source_domain": "smallcaps.com.au",
+   "published_at": "2026-09-15T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Anson secures Utah backing for Green River lithium",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjVKZXBMdVlDWElpQjRiM3lUakl5VzRlU3NyY3NJalhlNGtzVTg3RnRvM2xCb0x2cnF4RHVDYWJQTHZIbUc4ejJ2YnlPaDVMNTNaeFhLNU1vU190aktwMkJfOVhtcmFmeFJqSGRZSXBnbmhwUzB2UHYxNFBGWnRwU2ZJWDk3QWZl?oc=5",
+   "source": "Mining Magazine Australia",
+   "source_domain": "miningmagazine.com.au",
+   "published_at": "2026-09-15T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Wildcat Resources (ASX:WC8) Advances Tabba Tabba Lithium Project Development in September 2026",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWR4STlHdUhEUnVNZW1UXzVPQXRRTHI4eHE1eDRPWGJtcWQ5eHp2R0N6RURiVjZERy01Q2Fyck5QeHVyalA4NGpLUVlvZ3hBWmRKMFYzXzJ5WE12ekpGMnpJMDA1ZkFCYmNwWnFFQUoybTBXdFlXdHVPVm83VVFQNW13dXFVc3dzYm5TYzZEbThNZWlxNWZPYmljTHN5aTMwck5nY0VlYlYzQWV5VmxSNS1nbGpIaDZpZlk1dHhURFd5Nkt2?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-15T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Which ASX lithium miners does Macquarie prefer?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnFfNGpXSzBlRUlwM3hHbGs5V3FKUzQ1dVJRaF82emxudC1mUG45aU1ZLWFjZk92VEl5Y2dheEg4SDhjX1BfR09ITXhlTVZ3bzlfM0pYSXlVYUNvNzdaWHBxdS1hSmNJcUFZdUpQRmQ5V1cybDd2b0FBRFBFdDJEUm1VZXNtVWtuTGc?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-15T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX 300 Lithium Stocks: Liontown (ASX:LTR), Mineral Resources (ASX:MIN) and PLS Group (ASX:PLS) in Focus",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnhOYk9BY3VtLWNzQ3FnNERjaWFJOVZBa0hTS2ZIUW5rdnNiNHhEb1QyWGxSd0t4VzFZWU10anVpQ2lZMzFBOFF6N1phVnBpdXppc0YxOXlsbWNFQmdiSm1TUlFudnByOTFMbFFGb2IxUm9PdXdWeGhTdXI4cWZDbFJWNzZhcF9qRWY3NFVZMWtSdHRwYi16eHBXYnJwajZ1RHNUaldJZXdQM09sZXNzcUtRcXJNVWJnMk9SX3Z2clJsNE4zOVlFcnpWVTE0d2M5dlpiSg?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTGVtMm9kT3I3UFZ2cVlXZmoxT25UTHg3dG81czl1T3Z2MnBYXzQyckotcUc2OF9ITjlBdExWbWhDeUFGWDNsaENNR1FvVGI5SURwZEl4NkFuSkNBS0VIZHhNRFJkbHlUZGtlVnlSMzZLNmhGdXFqOHYwdVVjdEFNUldzNmhUeXUwMERNVURsVEJiUDlPcngwVE1pbHM4QlhGdldzWWhOMHlNbG0tMm4taU11eEZpeTByVTVScEJsRFJJRzNiRlMyWTFSVU03MU4xazR1cXRVQkZ3T3JvdDFkbE5DWnhQbHJnZzV4WnpyLVp3aHZ1UkgxcG9GaklOMFRSSmJOVGNFekVJVFhsVE56bQ?oc=5",
+   "source": "Business Wire",
+   "source_domain": "www.businesswire.com",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PMET Resources Inc. (TSX:PMET) Drops 3.92% as Lithium Volatility, Development Risk and Weak Sentiment Pressure the Stock",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMkpjSGxVakxEdXFWQmJnN0p1enBKZzg5cDV2UHRGU0FJekFaTTRSMml2bFRoWmcyRjhJODlTWTQ0bEFweW40blBfN2c4ODRWX2VQZWlZQVZ2Q3ZhbWJlaTd2S3dHMEhtM19tRjBpUWpLQ3I2QjcyNURkWnduOVd5VWdhQnhyRDNKMHprWHB4MzZTV1FLazFyTUpBRTZKcm9rbU81UXA1SGFob29XYkRybDNCUkMwX2JWbjJBTWt6RDRNRzRveDVJSi1kOUoxRTh5cDg4SmVOb3FiNndp?oc=5",
+   "source": "kalkine.ca",
+   "source_domain": "kalkine.ca",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "China, Ghana to jointly map mineral belts and assess gold, lithium potential",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3NnRFFZUUJ0S1AtbkNydDhaeURQMmdvR1E4ZFEtX2hQVi0zZVV1dTRQaE90V29Na3Z0Q3RDaDVsT3B6RVFRdTJJTjhRYXk1ZlU1S2tZOW9Ldjd6ZVVMcDAwZ2RwbDhtaGF6ZTlhVS10X19uSGVhdGFwQi1rTWNBY1g5bGNsRzBabTluakhfSFdEWURtM3N1SXFLWXJJajFIbC12TkZhc2tKZ2pVZzJWbnNfZmotUGhvTHIyVHJmVzNxVXNhVEM5NDJB?oc=5",
+   "source": "GhanaWeb",
+   "source_domain": "www.ghanaweb.com",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "PLS shares have soared 107% in a year! Is the ASX 200 lithium stock now a buy, hold or sell?",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1BYOW1MQ2pDYUh0SEc2SF9SU1BEdTdhSi0xY0RMMWg4MV9BQTIxSUlzOERjR0ZLdzdsaHJ0WVpZU2NkUENrcFhWa3lKdGxlZDVvMGUxTFA4Y290bmcxekN0a0NvSTVsVzdvZmJPUlNGVG40b2pNTTJXTWJ0RGUxQ3dNR29ON242MDFhcFV0bzByRWdKUEpiNWV3WC1JUDFYQkdhU3FUY1lNczFzYVNjdXpuYnJDMElBRjJZTVRKdV9qZw?oc=5",
+   "source": "The Motley Fool Australia",
+   "source_domain": "www.fool.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Resolute Mining (ASX:RSG), St Barbara (ASX:SBM) and PLS (ASX:PLS): Gold Strength Meets Lithium Recovery",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHlYVTd1WVRjSV9sLWJxQ1RNcTFLWXNINVR1YzdxNWNZR00zUFBsNGFiZVBVOHVhSWNiVTFCbG9hRjl4VWxrME5kbXFFdjI0UlQ5YW9fR19tb3VBc3FrSnZCa1FROS1BdkNRVk1PQ0xzQk8xSllkS21aM3pWUUZUUEoyQmppMkJZeTVPMjBzdDh2c09JU19QbThNQTdqVUh5UmMxaDk2ZG9SYXJtWHRCREhhblJvWUVrZzQ5N0RzUTdfTmxwS293OUFKT1BLSFhnQnB3?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "ASX Critical Minerals Stocks in 2026: Why Investors Are Tracking Lynas, South32 and PLS Group",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPal9obDZPOXExRWRfMFNDUWxDTWtGQURhTHZ5U2Mta09oWFhVR2pxNXNtT0xHT25meFVaMlpmUGgzYUg4TWstU3FnYkdhRmZZRUxjem1SM1pxS1VQanFiWnkySzFiYTRYYWs3TU5TNEdXM0tPUGxQU1gtUzlFMmxvSi1PeUFxMWhGTG9JREtNd2djVjFMaFpJNEFmX2VIek1GZ2JIeDlQVWlLMnZWSjBac1lrSllIMnRTUTh5WHNOYXBaNnE5?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Elevra Lithium (ASX:ELV), PDI Gold (ASX:PDI) and Minerals 260 (ASX:MI6): Resource Growth Stories to Watch",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaDJPRVhHUUNYSGVVdTNILXF6SHJ5d3BEaGFfMmRKcHp6dDVZZ0FZdmpTU1JpVkZvdk9DYXNVbklCclZqRDhabUxRb04tRDEwV0tqVGJzaE5XU0NTMC1RWGJKdGNlTHNhbDV5c3pkV1FSdnR5aE9pUGNyR2JEV0NNZUZXaHJYWTliQ1lDSG9jYWJQLU9POG9YVUxnckpISFIzYlJDS2JCUUFKNXBzdXJRdG5HSm50eDRqVzZUMGEza2g2SW52SW9QcTVYYjRoeEhNX3ZNemx3?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why Ken Brinsden sees upside for lithium prices",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd3d0LVM2MnBoRUtfS1pjM3pHbGV1UTlpdHZKMC0yekJrTU1HODlFNS16SWg2UDdkemFBQUpjZFlWZjI1Q0drNGxiLUR1UWdMMllpM3lyQ0VwbmlhNHBTVEM1NFZ6LXlFall4QXdtOFZIeEdsUnhSMEVWVWRWQ1BramRsd05mTG5lLXRtdkZRUERabUc2RGM4dHFCdGpUaXRuaVJFZGlZblZMSnhXczdTZDkyam0zbjZvMzJLMTFydG02ODduWFZJa3A1V3dJM2F0T2N0SmxHSGFtM3Mwd3pnMmRFWS1zS1NNUG1jNllzdnRSWTI2d3c?oc=5",
+   "source": "Herald Sun",
+   "source_domain": "www.heraldsun.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Why Is PLS (ASX:PLS) Back in Focus After Its Lithium Surge?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrdktUTV9oRzJkMkhxVW5JaU1wOG5VQVlSeGRvQ1IzMGxSYWY0VjQxZHNLQlpDMkw0eXlpUFRwbE85bXB2eDFEY3pXeTJLc2l6Q19lYng4b09zUnBBTDNxZnFqRDBIYmlEMkRncC16dDhNTGhGSjBucUJTejlWdDNKLVdvUm5lVjBla09yOXNiMEhjYVFUZnhGLTFVa0E?oc=5",
+   "source": "Kalkine Media",
+   "source_domain": "kalkinemedia.com",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Pilbara Minerals to Hold 2026 Annual General Meeting on 24 November",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVm02X3hjQ0lPQTB2TVJpblpHb0xVZEVHLU5veGZlLTBManVJUXV3UDJSdGJXMUZGMUV4MmpjMmVyTl9wbUxhcjBaOVd3VVc4QmtsZHV1VDFjZC1hekFEdnJqR3RuaHVRbEJfYWF5aFc5Z3hQZmFYcHhlaE9fZFBNNlVrRGctZHJET29CanM3dFMtbndNQ2pjekhnTlY3cERsVURmakExV1JjU0xfZ3c?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Pilbara Gold (ASX:PGL): Mt York Gold Project Resource, Drilling and Pre-Feasibility Study Progress",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3VSZWxNZTdyZVhpd0IzOXlwTlZBS2hKT3BaM3NFQlRiYk5rZHExSUlHV1lKZ0cyd1pPMGlUMUtFRWVxazdmZ0I3N2NzeThOTm1sc25xclp1bUNyMGx2dFVSNXVmb2VnMjE4M1Vhd0tKSGZiMnltWVVlV0RuRUt3UjRWUUtWc25yTmtuaHYzMk1nQS1HLWh6cjYyX3FKTkdYTHJKTDM1aUl2dzFBYTZuMWdWSFZYcU4wZ1lVVF94Qlo5aU5aTVZR?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mineral Resources Grants FY26 Deferred STI Share Rights to Managing Director",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMDBqTktYNGxEclY0Z2RjaTRrTnU4ekxoZ1hsdkRIZDBKU3pOZ29abFFtNlR0MzZ5U1pMRE9QV2c4aGswMHhTLXpsajBnaDNLY1hNVFgxVW85UERSajdxOXhwUW9VX0RoYTJXeWxHQ0F3QUFXeXdUUkE0VEo1X3cxQ2tiZmNmUUJONTBZcWJjM3NsazNmM3Ezc0ZwZjJLbV9GdWFzV09fS1B1MDZRWi1XdWdKR0RULTNkT1JSUHZaUkw2LWtnQmtRQzVHczQxTFZKUkZyUTh4WGRkNW1zZ3R5NGQ0OGhNWFZKUExmMlZIU1FGZlho?oc=5",
+   "source": "The Globe and Mail",
+   "source_domain": "www.theglobeandmail.com",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Pilbara Minerals (ASX:PLS) Up 129% in a Year: Is the Lithium Rally Still Worth Watching?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjZHWUxyeXJvS3F2UDZ1U3ktNjVXNVFLNGhOUTB6NmppM0IwLVFTbXR0cmNfMDM2NnNmVFg1X1FvVjY2Y0dNd1lfS1MzcFRkUWJGZjZVM09RU1FWNWRSbjlSajVRM2c2bGttS0Ntbi1MMnBBNGt0ejdRdFVDdDB1clBQWnJzekxjYzkyV1g4cnZkWE4wVmR5MTdpbFJLMHREZ0E3SzdLTFlfb1pXRTFoSVhhYVhzc2ZU?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Ore Resources RC Drilling Extends Lithium Mineralisation Beyond Mineral Resource Boundaries at Coolgardie",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMHdBVXoySWswNWlkUWVSd2NmazNSS01fb0NFWWwtZmI2VzUzU0N1MDRreGNzYkVmQWFxYUlvMUh0Zk00TTFJWkRMR2djcFZfUHozYkFQWDZHZVF4emltSC1DTDhFb0NnT0RUbUdBWXlKbUUwLWM2UHIyOEJ6M0s4Z1NWa1phTWdEeVJWSzJ2SnZEYmNvNzlLZWQyV3NmakZhWG91N0FSTlpBbG1JZTNCaUZEWjU2bDNtb3ZrZmZKUWpkeEY3MzVlYWJrazltVlpxM1l1bndXS055MXZoaldROA?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Ore Resources (ASX:OR3) Extends Lithium Mineralisation Beyond Resource Boundaries at Coolgardie",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcjF5ZGdCakczbDBNZnNiUTBnR200Q1BxOWp6eGNWWFRQQlV2S0JPNkdqSXdCMTFnV0R6dXhQLXRfN3VNX1dYRjJkM0FwVGJNbWxrTWhwTTREOEJENU1LUXBTZFpMd055Q1B3Qi04MWFCYVJmdzFubzBYcTlpdlVaeXd0ZHJwX0JMaWZnbVkwNVdyRkNibVp3MDVBNU5hOTFKTjBRQ19UcW1wanNWWTdtNk94cXRYa2VEM3E2TnM1bUIyMlViWEE?oc=5",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "India’s largest sustainable critical minerals producer ships first lithium ore from Zimbabwe, secures 10 blocks with an estimated $7 billion lithium deposit",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRnkwVW0yMWNsd0tkeDBlenZzZ2lrRTdkQ1pRTGtyOC00UXFaTzZVb3lYdmtuTUNBUTFMOXpxZUVkcTA0RnJmZHQ2bUhuNnh3Y01TRjdIclRvNVJSQVVEQjVybUFWcDJkbC1DOWJhTjJ6TmFvcldqQzEwbERQd0N3UnEzZGRLVFRHLU5faGZNRXhzSmYwcU1Wd2VSWlpiRnJyb0hLRS1HS0FMZVNoT19PczZ2UkF2U3g3bTFNVk5IQlhfWWFGbkx4X1NKRFNKamhVQzBCTUJR?oc=5",
+   "source": "Business Insider Africa",
+   "source_domain": "africa.businessinsider.com",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Mexico to allocate US$16mn to lithium, critical and radioactive minerals",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSTRDamNsa0R3dFB4R1dHbGVpQlJ0YjhtbjF0QkMwQUs5eWY4OGgxVjRzc3ZyWjdHV3VhSDZ2dGktbi1oZWcxbEJ5ZWlCcTFPQThYTndyWEpwTlR5VjBxeVZnODk0MDQ1cFZwMlR1TWlGajhuXzI5YTBpN3A4elpuLVpPNXpVdnQyQk44VU5ERTlEd0EzZjhTbjZVaTdKWlBNak9BN0djalVWMlFEMnc?oc=5",
+   "source": "BNamericas",
+   "source_domain": "www.bnamericas.com",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Between contracts, M&A, and legal disputes: the current picture of Brazil’s lithium sector",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnJxNG1HRzFTbXQ0amkyWVptbWNCNVprdHFEbjY5TlZ6UUdHRGFJdXUxYjNHbGtRS0VKcy1SeG5JeTVkY0lZMnJoa1c0Q3VkeFFDaFotV09fMzA2dzI4eUZNOWhYenhfX2NHejY2T1JtcVU2di1IYVZPTG1ZYnVJTWZRdnVIZzBiMXd0YlBLRmJLYXZtMUg5SnVFdlVlUGxUamxHMkItTks3T1JrN1JIcWZQV2VkUmNRcXVMNQ?oc=5",
+   "source": "BNamericas",
+   "source_domain": "www.bnamericas.com",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Asian Bulk Logistics: Engage the latest part of a \"grand plan\"",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnZPeWZTT3FBOGV6V01vci0wZG5USHFVN3AwTjF2RU9VU1NZRFNkRTBGcE4xQkFmVWlnc2w4dWFXVW1YRF92aUctMldtbmdMa1VhTWdhSEM1ZnVkWGkwVEdkOGJuTDVHX1J5UlE2dHloT0lvWkF3U19oY0d6dG5pVHZ5bXlGU1lrZy1FUnVMMURrekw50gGkAUFVX3lxTFBwVWM0Q2VkZkRqem9TTXJ2Y1NkNkxqRzFDeDBveTVuT29INDE1ZjVBbjBSeDQ4WHBoRDZlSC1mbVNwN21PUUp5Qm5QbTNTSWNYbW1iTmJYV2RaWkZ4Y2k3cl9ZcFBLWEVzUktUQllFcVJqVHF2eE9JQ190eUlSZjFRNl94Q2hnaGxOdk5DRzRWMkkzWG8wTWtLN1hMMG1HeGdRWnQ4?oc=5",
+   "source": "Daily Cargo News",
+   "source_domain": "www.thedcn.com.au",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Lohum starts Zimbabwe lithium operations with first ore shipment",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS2lLUU5wNUQwOG4xOWdaZ1lkOWtqbXdZOUtUVTZkLWVPN1RFMzJRWmEySklURGE5RXJFQ0FFVDdIRGZSTlJyLVhlLVNYNmVaYk9rSUZ5WFYxdWxHWWhHTGs5bjg3MkdSaFVDamttYzVCb0VUSXJISThPUDU2TUp6THhCck9WajlrU3RLM0wxV0hnWUFHUmU3YTRmcEZadnlKMHfSAacBQVVfeXFMT2o1QVFPejhKY3F6VEJVcDdLOFlaeUo5RC1GRlowdXJGeUNTN0NtODdxM0pmZnFkOE5NTWZWcjdiSGR1WlIycHBKOFY3QnhsVHNSZVBDdFhQWGVlR0xOeFhNLTRaeFh6c3lkTy12QzhCMGFFYThIOU8tQmlYdS10OHpIem8wRkJsUGhUcWFVQzFHRkt1X1l4eGNTellEcm9HWTdEd3NDVTg?oc=5",
+   "source": "domain-b.com",
+   "source_domain": "www.domain-b.com",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "An African country that banned exports of its most important raw resource has now banned two more raw materials",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDZjMGo1TWhXTzEteGtPQ3JVemVBVEtyMmVzMk93SUVfM3R4OFpCMmJpdkRVRHRKSkx6RW51Qk9fY3h0RlVCNFhGb0pWNlBjRlNabWZBUzdyX3h5Ni1EVjFuRmtqU1JPM0k4eG5raGd1UjlzTTk2OW9CbVoxV3RRQ0g0b1JQY1pYZUw0UUNKTndOSFozY25kOFZfTHg4TzRadmx1a1psYUxBMzlvaGFpUjhhcDU4YkpyUjdxcTR0a0tJQjdWY2pya1lGVjhfbWVULVREUE9R?oc=5",
+   "source": "Business Insider Africa",
+   "source_domain": "africa.businessinsider.com",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "LOHUM Lithium Mining Plan Links Zimbabwe to India",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYnRLZkhVLVg1SUpSWGNQOUtMWnMtaTd4THdKT0VxZko0bXhlbzYzOUVpVTNtZnlWWklnNk9sQ0tnSGQ0bUpkNFVHYW5fVFowRE9LWW82el8xcmtaYVVSQ3VnZ2F4N3J5OU9veGVpQnp2M3BFRU5rcVRCMGlIM3hOaHJweWM0WmJrN2c?oc=5",
+   "source": "Urban Acres",
+   "source_domain": "urbanacres.in",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "LOHUM Ships First Lithium Ore from Zimbabwe Mining Assets",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1JrTGN1TlRfZW4xTUFGY2hUSk95NEVHM2lRN2E3UWRwTWtJYmVoT2FiOTR3SDdhMU5oOXNuSFMwNjVpYTYxc1Z5S3FPOXNia2N1UGM0NUVHMWluWE5fNEFYa1lOdDZMVzZMLTV4MjRDR0RQTTZXcnVzQ05ZdHoyLTAwdVU5N0d2eU9QUElMMGtLLThDc0U3UkppSDZsUHRYekJlVw?oc=5",
+   "source": "ChemAnalyst",
+   "source_domain": "www.chemanalyst.com",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "Elevra Lithium Announces NAL Expansion Pre-Feasibility Study",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1dfb0QxVjloOWZQeXk2ZTdRZ0NBMHl2VGViLUJFSzVneEhDekNfX0V5WDVtajlBbFpTX2hIdER6eFZKdFA0aFlqeVFmcF9pcDgwbGlmWTN1LTBaNmQxaGlkVlZLa00tc0lWWXVkdEdGc0dhSURTM1B5eW0yS1IyZFBhU2lFTGo4ZWx5ckNzVm9xYUxVQkc0X25DS0RUVlhnR1ZONkhva1hCb0Q1b05Lajhfb1RyaHo1cTY0TFpacEQyam9aMzB6Zk1vZkJFeEXSAdQBQVVfeXFMTy15WjZBVUdlZGJqdnF3LTB5MnJGRWpLaFdfUnZTNVVFSjdLOEVJZVlkVlE2ck1ySXpUWVdWRzh1TDd3aFV6MEo1UE9nOGpKWW1EY1Qza3luUVVvZzlQbkV4TE80NVJOR1VlVkRYTnVLMVlUNk9CZUExVlhhRjhjeTc5aFFLSk91SGlFRTQyV2Z4VmhoTy1YXzd1SHpzeGZIYVgyb3dhZkVVWjlVSUJiRkFtUVREZ2FBVDM2QzVFWEE3R0MzY1FIWGZYbVJYd1J6dUNqRXg?oc=5",
+   "source": "The Manila Times",
+   "source_domain": "www.manilatimes.net",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  },
+  {
+   "title": "LOHUM targets 30,000 tonnes lithium carbonate output from Zimbabwe assets",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEpNZFhXRm04Y0Yyc3NuT19FanJnU0Q1c0lfS2ZHbHBFZWszaUVPN19Xdzh5bHBqMC1xa2RLd3llcVY4U2FUNTdLV2xMcl9ZS1hyMjRIX2FGZVViMVdjcGVpYThOdGRnVzRxVm5aQ1RtT3lzQ3NuaGVrbEk4Vngwa0tOQ2xXN3hrNVhKOHlGY0NVZ2NYakNjdlVxRU9nWDZKeGNRQnE2QlptWjBpeC1hM2tDa2ZxODZxZkR1MGNCeG5tQkZ0cXhLZm9DSXpEd9IB0wFBVV95cUxOaXVwLWhQRGtFT1BrQnBOVGo1QkhwbnRuMXRNdjNiaEdIdGhwLUpLZ19OMXk1MnZRaG5WNlBTbFhKRnc4UjhzVFZ4NUM1UDJMd1l1SHdsSVU3cUhxTW1TdnhvVlh2Ym9jMWtuRnEzdkdlUG5RR0hGMHROcW9vNFptdGtxODJVNW5lWkNOVmFfaGlQbHlicTFmSGRHcHdiOUUwOXotdlNWTXNSNWQ4LWlXNWlubTR3ZzF6NjYyRHlMQWFIVDl3T1dyc0lBVXNJaTRKTHlz?oc=5",
+   "source": "Business Standard",
+   "source_domain": "www.business-standard.com",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "snippet": "",
+   "provider": "google-news"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "note": "项目 → 技术报告 PDF。pdf_url 填公司官网 / ASX 公告的真实 PDF 链接即可走 live 解析；下载或解析失败时自动回退到 fixture（示意数据样例 PDF）。",
+  "projects": {
+    "Pilgangoora": {
+      "aliases": ["pilgangoora", "pilgan", "pls"],
+      "operator": "PLS Group (formerly Pilbara Minerals)",
+      "region": "Pilbara",
+      "commodity": "lithium",
+      "pdf_url": null,
+      "fixture": "pilgangoora_sample.pdf"
+    },
+    "Wodgina": {
+      "aliases": ["wodgina", "marbl"],
+      "operator": "MARBL JV (Mineral Resources / Albemarle)",
+      "region": "Pilbara",
+      "commodity": "lithium",
+      "pdf_url": null,
+      "fixture": "wodgina_sample.pdf"
+    }
+  }
+}

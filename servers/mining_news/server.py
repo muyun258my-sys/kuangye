@@ -154,23 +154,25 @@ def fetch_article(url: str, max_chars: int = 6000) -> dict[str, Any]:
             err = f"{type(e).__name__}: {e}"[:160]
             log.warning("fetch_article 失败 %s: %s", url, err)
 
-    fx = src.load_fixture_article(url)
-    base = fx or known
+    fx = src.load_fixture_article(url) or {}
+    # 元数据优先用本次 search 的结果（它带着正确的 data_source）；快照只在有全文时补正文
+    base = known or fx
     if not base:
         raise ToolError(f"无法获取正文（{err or '离线模式且无快照'}）：{url}")
-    text = (base.get("text") or base.get("snippet") or "").strip() or base.get("title", "")
+    full = fx.get("text") or known.get("text")
+    text = (full or base.get("snippet") or "").strip() or base.get("title", "")
     return {
         "url": url,
         "resolved_url": base.get("resolved_url", url),
         "title": base.get("title", ""),
         "text": text[:max_chars],
-        "text_source": "full" if base.get("text") else "snippet",
+        "text_source": "full" if full else "snippet",
         "published_at": base.get("published_at"),
         "source": base.get("source", ""),
         "source_url": url,
         "retrieved_at": retrieved_at,
-        "data_source": "fixture" if fx else "live",
-        "note": "正文抓取失败，退回快照/摘要" + (f"（{err}）" if err else ""),
+        "data_source": known.get("data_source", "fixture") if known else "fixture",
+        "note": ("正文抓取失败，退回快照/摘要" if not is_offline() else "离线模式，使用快照/摘要") + (f"（{err}）" if err else ""),
     }
 
 

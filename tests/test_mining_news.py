@@ -152,6 +152,23 @@ async def test_live_search_all_fail_falls_back_to_fixture(monkeypatch):
     assert "联网失败" in r["note"] and r["count"] > 0
 
 
+async def test_live_search_hit_keeps_live_label_when_article_fetch_fails(monkeypatch):
+    """search 是实时找到的、只是正文抓不到：即使同一 URL 也在快照里，也不能标成 fixture。"""
+    monkeypatch.setenv("MINING_OFFLINE", "0")
+    snap_item = src.load_fixture_items()[0][0]
+    live_item = {**snap_item, "published_at": datetime.now(timezone.utc).isoformat(), "provider": "google-news"}
+    monkeypatch.setattr(src, "google_news", lambda q, d: [dict(live_item)])
+    monkeypatch.setattr(src, "gdelt", lambda q, d: [])
+    _patch_http(monkeypatch, lambda req: httpx.Response(403))  # 新闻站拒绝抓取
+    q = " ".join(src.tokens(live_item["title"])[:3])
+    async with mcp_session(mcp) as c:
+        _, r = await call(c, "search", {"query": q})
+        assert r["data_source"] == "live" and r["results"][0]["url"] == live_item["url"]
+        err, a = await call(c, "fetch_article", {"url": live_item["url"]})
+    assert not err and a["data_source"] == "live" and a["text_source"] == "snippet"
+    assert "403" in a["note"]
+
+
 async def test_live_fetch_article_extracts_full_text(monkeypatch):
     monkeypatch.setenv("MINING_OFFLINE", "0")
     monkeypatch.setattr(src, "assert_public_http_url", lambda u: None)
